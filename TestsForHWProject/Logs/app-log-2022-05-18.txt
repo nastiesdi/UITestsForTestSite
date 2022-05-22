@@ -1,0 +1,422 @@
+2022-05-18 22:32:23.1665|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.165 PM - Form 'Home Page' :: appears 
+2022-05-18 22:32:23.2169|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.216 PM - Form 'Home Page' :: appears 
+2022-05-18 22:32:23.2183|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.218 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 22:32:23.2193|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.219 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 22:32:23.2342|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.234 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 22:32:23.3400|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.340 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:32:23.3649|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.364 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:32:23.3649|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.365 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 22:32:23.4050|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.405 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 22:32:23.4297|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.429 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 22:32:23.5077|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.507 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:32:23.5249|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.524 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:32:23.6175|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:32:23.617 PM - Close all instanse and browser 
+2022-05-18 22:35:06.4165|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.416 PM - Form 'Home Page' :: appears 
+2022-05-18 22:35:06.4619|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.461 PM - Form 'Home Page' :: appears 
+2022-05-18 22:35:06.4630|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.463 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 22:35:06.4639|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.463 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 22:35:06.4806|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.480 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 22:35:06.6163|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.616 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:35:06.6681|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.668 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:35:06.6681|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.668 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 22:35:06.6849|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.684 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 22:35:06.7076|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.707 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 22:35:06.8067|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.806 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:35:06.8525|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.852 PM - Form 'Navigation Page' :: appears 
+2022-05-18 22:35:06.9919|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.991 PM - 02/29/2024 00:00:00 
+2022-05-18 22:35:06.9927|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 10:35:06.992 PM - Close all instanse and browser 
+2022-05-18 23:08:03.3338|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.332 PM - Form 'Home Page' :: appears 
+2022-05-18 23:08:03.4298|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.429 PM - Form 'Home Page' :: appears 
+2022-05-18 23:08:03.4312|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.431 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:08:03.4327|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.432 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:08:03.4547|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.454 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:08:03.6067|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.606 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:03.6226|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.622 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:03.6228|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.622 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:08:03.6369|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.636 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:08:03.6584|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.658 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:08:03.7277|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.727 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:03.7476|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.747 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:03.8236|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:03.823 PM - 02/29/2024 00:00:00 
+2022-05-18 23:08:42.6134|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.612 PM - Form 'Home Page' :: appears 
+2022-05-18 23:08:42.6577|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.657 PM - Form 'Home Page' :: appears 
+2022-05-18 23:08:42.6588|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.658 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:08:42.6597|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.659 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:08:42.6737|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.673 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:08:42.7763|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.776 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:42.7961|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.796 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:42.7961|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.796 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:08:42.8108|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.810 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:08:42.8471|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.847 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:08:42.9199|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.919 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:42.9374|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:42.937 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:08:43.0909|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:43.090 PM - 02/29/2024 00:00:00 
+2022-05-18 23:08:43.1094|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:43.109 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:08:43.2600|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:43.259 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:08:43.3773|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:43.377 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:08:45.6952|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:45.695 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:08:45.9895|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:45.989 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:08:48.2749|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:08:48.274 PM - Close all instanse and browser 
+2022-05-18 23:09:53.6551|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.654 PM - Form 'Home Page' :: appears 
+2022-05-18 23:09:53.7467|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.746 PM - Form 'Home Page' :: appears 
+2022-05-18 23:09:53.7478|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.747 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:09:53.7489|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.748 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:09:53.8021|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.802 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:09:53.9079|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.907 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:09:53.9603|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.960 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:09:53.9605|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:53.960 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:09:54.0005|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:54.000 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:09:54.1638|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:54.163 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:09:54.2715|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:54.271 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:09:54.3369|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:54.336 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:09:54.5394|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:54.539 PM - 02/29/2024 00:00:00 
+2022-05-18 23:09:54.5722|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:54.572 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:09:54.7865|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:09:54.786 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:17:41.1865|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.185 PM - Form 'Home Page' :: appears 
+2022-05-18 23:17:41.2940|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.294 PM - Form 'Home Page' :: appears 
+2022-05-18 23:17:41.2952|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.295 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:17:41.2962|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.296 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:17:41.3505|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.350 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:17:41.6138|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.613 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:17:41.6551|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.655 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:17:41.6554|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.655 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:17:41.7303|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.730 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:17:41.7548|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.754 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:17:41.8752|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.875 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:17:41.9219|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:41.921 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:17:42.2037|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:42.203 PM - 02/29/2024 00:00:00 
+2022-05-18 23:17:42.2608|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:42.260 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:17:42.3945|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:17:42.394 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:20:55.2466|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.246 PM - Form 'Home Page' :: appears 
+2022-05-18 23:20:55.2926|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.292 PM - Form 'Home Page' :: appears 
+2022-05-18 23:20:55.2936|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.293 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:20:55.2945|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.294 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:20:55.3113|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.311 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:20:55.5554|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.555 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:20:55.5768|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.576 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:20:55.5768|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.577 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:20:55.6055|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.605 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:20:55.6299|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.629 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:20:55.8241|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.824 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:20:55.8460|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.846 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:20:55.9340|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.934 PM - 02/29/2024 00:00:00 
+2022-05-18 23:20:55.9437|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:55.943 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:20:56.1347|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:56.134 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:20:56.2621|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:56.262 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:20:58.5774|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:58.577 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:20:58.8822|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:58.882 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:20:59.1627|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:20:59.162 PM - Close all instanse and browser 
+2022-05-18 23:21:19.1792|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.178 PM - Form 'Home Page' :: appears 
+2022-05-18 23:21:19.2588|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.258 PM - Form 'Home Page' :: appears 
+2022-05-18 23:21:19.2600|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.260 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:21:19.2611|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.261 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:21:19.3042|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.304 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:21:19.4976|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.497 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:21:19.5390|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.539 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:21:19.5390|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.539 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:21:19.5764|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.576 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:21:19.6006|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.600 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:21:19.6923|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.692 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:21:19.8241|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.824 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:21:19.9874|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:19.987 PM - 02/29/2024 00:00:00 
+2022-05-18 23:21:20.0190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:20.018 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:21:20.2358|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:20.235 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:21:25.0724|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:25.072 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:21:29.1304|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:21:29.130 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:23:48.0762|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.075 PM - Form 'Home Page' :: appears 
+2022-05-18 23:23:48.1214|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.121 PM - Form 'Home Page' :: appears 
+2022-05-18 23:23:48.1228|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.122 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:23:48.1238|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.123 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:23:48.1385|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.138 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:23:48.2281|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.228 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:23:48.2485|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.248 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:23:48.2485|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.248 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:23:48.2637|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.263 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:23:48.2860|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.286 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:23:48.3595|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.359 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:23:48.3776|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.377 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:23:48.4871|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.487 PM - 02/29/2024 00:00:00 
+2022-05-18 23:23:48.4986|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.498 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:23:48.7338|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.733 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:23:48.9665|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:48.966 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:23:51.2740|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:51.273 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:23:51.5769|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:51.576 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:23:51.8595|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:23:51.859 PM - Close all instanse and browser 
+2022-05-18 23:27:26.3200|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.319 PM - Form 'Home Page' :: appears 
+2022-05-18 23:27:26.3653|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.365 PM - Form 'Home Page' :: appears 
+2022-05-18 23:27:26.3663|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.366 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:27:26.3673|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.367 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:27:26.3812|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.381 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:27:26.4724|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.472 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:27:26.5034|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.503 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:27:26.5034|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.503 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:27:26.5182|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.518 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:27:26.5526|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.552 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:27:26.6286|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.628 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:27:26.6457|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.645 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:27:26.7298|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.729 PM - 02/29/2024 00:00:00 
+2022-05-18 23:27:26.8062|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.806 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:27:26.9637|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:26.963 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:27:27.0615|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:27.061 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:27:29.3829|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:27:29.382 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:28:05.5266|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:05.526 PM - Form 'Home Page' :: appears 
+2022-05-18 23:28:05.5732|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:05.573 PM - Form 'Home Page' :: appears 
+2022-05-18 23:28:05.5744|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:05.574 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:28:05.5754|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:05.575 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:28:05.7977|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:05.797 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:28:06.0107|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.010 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:28:06.0742|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.074 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:28:06.0742|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.074 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:28:06.1107|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.110 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:28:06.1552|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.155 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:28:06.2814|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.281 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:28:06.3296|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.329 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:28:06.5112|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.511 PM - 02/29/2024 00:00:00 
+2022-05-18 23:28:06.5730|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.573 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:28:06.7376|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:06.737 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:28:10.0092|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:10.009 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:28:16.5668|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:28:16.566 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:29:44.0751|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.074 PM - Form 'Home Page' :: appears 
+2022-05-18 23:29:44.1429|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.142 PM - Form 'Home Page' :: appears 
+2022-05-18 23:29:44.1441|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.144 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:29:44.1451|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.145 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:29:44.1869|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.186 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:29:44.3292|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.329 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:29:44.3806|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.380 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:29:44.3806|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.380 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:29:44.3977|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.397 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:29:44.5041|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.504 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:29:44.6318|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.631 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:29:44.6723|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.672 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:29:44.8967|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.896 PM - 02/29/2024 00:00:00 
+2022-05-18 23:29:44.9294|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:44.929 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:29:45.1486|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:45.148 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:29:45.2705|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:45.270 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:29:48.9178|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:29:48.917 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:30:07.0790|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:30:07.079 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:31:32.4930|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.492 PM - Form 'Home Page' :: appears 
+2022-05-18 23:31:32.5461|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.546 PM - Form 'Home Page' :: appears 
+2022-05-18 23:31:32.5471|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.547 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:31:32.5481|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.548 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:31:32.5627|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.562 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:31:32.6843|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.684 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:31:32.7748|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.774 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:31:32.7751|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.775 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:31:32.7914|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.791 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:31:32.8153|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.815 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:31:32.8909|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.890 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:31:32.9102|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.910 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:31:32.9880|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.988 PM - 02/29/2024 00:00:00 
+2022-05-18 23:31:32.9977|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:32.997 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:31:33.1320|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:33.132 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:31:33.2288|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:33.228 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:31:33.5632|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:33.563 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:31:33.8581|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:33.858 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:31:34.1555|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:34.155 PM - Button 'day element' :: Clicking 
+2022-05-18 23:31:36.4246|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:31:36.424 PM - Close all instanse and browser 
+2022-05-18 23:34:11.2290|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.228 PM - Form 'Home Page' :: appears 
+2022-05-18 23:34:11.2724|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.272 PM - Form 'Home Page' :: appears 
+2022-05-18 23:34:11.2735|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.273 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:34:11.2743|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.274 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:34:11.2882|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.288 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:34:11.3892|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.389 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:11.4101|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.410 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:11.4101|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.410 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:34:11.4271|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.427 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:34:11.4643|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.464 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:34:11.5410|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.541 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:11.5581|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.558 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:11.6205|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.620 PM - [ Step 2 ]: Verify Dates are equal 
+2022-05-18 23:34:11.7160|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.716 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:34:11.8600|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.860 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:34:11.9529|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.952 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:34:11.9927|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:11.992 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:34:12.0479|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:12.047 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:34:12.3390|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:12.338 PM - Button 'day element' :: Clicking 
+2022-05-18 23:34:12.6647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:12.664 PM - Close all instanse and browser 
+2022-05-18 23:34:35.0165|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.016 PM - Form 'Home Page' :: appears 
+2022-05-18 23:34:35.0590|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.059 PM - Form 'Home Page' :: appears 
+2022-05-18 23:34:35.0601|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.060 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:34:35.0610|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.060 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:34:35.0760|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.076 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:34:35.1668|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.166 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:35.1866|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.186 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:35.1869|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.186 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:34:35.2122|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.212 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:34:35.2344|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.234 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:34:35.3351|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.335 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:35.3547|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.354 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:34:35.4817|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.481 PM - [ Step 2 ]: Verify Dates are equal 
+2022-05-18 23:34:35.5056|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.505 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:34:35.6422|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.642 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:34:35.7587|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:35.758 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:34:36.0907|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:36.090 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:34:36.3868|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:36.386 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:34:36.6866|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:36.686 PM - Button 'day element' :: Clicking 
+2022-05-18 23:34:37.0032|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:34:37.003 PM - Close all instanse and browser 
+2022-05-18 23:35:18.0105|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.009 PM - Form 'Home Page' :: appears 
+2022-05-18 23:35:18.0631|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.063 PM - Form 'Home Page' :: appears 
+2022-05-18 23:35:18.0642|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.064 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:35:18.0654|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.065 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:35:18.0874|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.087 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:35:18.2357|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.235 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:35:18.2515|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.251 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:35:18.2517|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.251 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:35:18.2656|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.265 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:35:18.2868|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.286 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:35:18.3548|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.354 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:35:18.3716|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.371 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:35:18.4247|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.424 PM - [ Step 2 ]: Verify Dates are equal 
+2022-05-18 23:35:18.4506|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.450 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:35:18.5766|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.576 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:35:18.6748|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:18.674 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:35:19.0119|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:19.011 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:35:19.3182|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:19.318 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:35:19.6145|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:19.614 PM - Button 'day element' :: Clicking 
+2022-05-18 23:35:19.9038|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:19.903 PM - Close all instanse and browser 
+2022-05-18 23:35:43.4780|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.477 PM - Form 'Home Page' :: appears 
+2022-05-18 23:35:43.5226|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.522 PM - Form 'Home Page' :: appears 
+2022-05-18 23:35:43.5237|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.523 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:35:43.5237|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.524 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-18 23:35:43.5381|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.538 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-18 23:35:43.6539|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.653 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:35:43.6737|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.673 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:35:43.6888|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.688 PM - Button 'Navigation button Alerts' :: Scrolling into view 
+2022-05-18 23:35:43.7273|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.727 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-18 23:35:43.8068|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.806 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:35:43.8068|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.807 PM - [ Step 2 ]: Click Button to see alert 
+2022-05-18 23:35:43.8230|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:43.823 PM - Button 'Allert button with id alertButton' :: Clicking 
+2022-05-18 23:35:45.8890|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:45.888 PM - Expected alert text : You clicked a button, Actual alert test: You clicked a button 
+2022-05-18 23:35:45.8890|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:45.889 PM - [ Step 3 ]: Click 'OK' button 
+2022-05-18 23:35:47.8928|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:47.892 PM - [ Step 4 ]: Click Button to see Confirmation Alertalert 
+2022-05-18 23:35:47.9190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:47.919 PM - Button 'Allert button with id confirmButton' :: Clicking 
+2022-05-18 23:35:49.9749|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:49.974 PM - Expected alert text : Do you confirm action?, Actual alert test: Do you confirm action? 
+2022-05-18 23:35:49.9749|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:49.975 PM - [ Step 5 ]: Click 'OK' button 
+2022-05-18 23:35:52.0125|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:52.012 PM - [ Step 6 ]: Click Button to see  prompt box will appear 
+2022-05-18 23:35:52.0264|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:52.026 PM - Button 'Allert button with id promtButton' :: Clicking 
+2022-05-18 23:35:54.0867|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:54.086 PM - Expected alert text : Please enter your name, Actual alert test: Please enter your name 
+2022-05-18 23:35:54.0867|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:54.087 PM - [ Step 7 ]: Enter Text and click  'OK' button 
+2022-05-18 23:35:58.1270|0|INFO|WebDriverFramework.WebDriver.Logger| 05/18/2022 11:35:58.127 PM - Close all instanse and browser 
+2022-05-18 23:36:01.5279|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.527 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:01.5480|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.548 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:01.5480|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/18/2022 11:36:01.548 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:36:01.5487|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.548 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:36:01.5755|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.575 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:36:01.6809|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.680 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:01.6996|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.699 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:01.6996|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/18/2022 11:36:01.699 PM - [ Step 2 ]: Click Button to see Date Picker page 
+2022-05-18 23:36:01.7172|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.717 PM - Button 'Navigation button Date Picker' :: Scrolling into view 
+2022-05-18 23:36:01.7381|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.738 PM - Button 'Navigation button Date Picker' :: Clicking 
+2022-05-18 23:36:01.8629|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.862 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:01.8827|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.882 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:01.9262|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/18/2022 11:36:01.926 PM - [ Step 3 ]: Verify Dates are equal 
+2022-05-18 23:36:01.9501|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:01.950 PM - DatePicker 'Date Picker' :: Clicking 
+2022-05-18 23:36:02.1058|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:02.105 PM - Button 'Year button' :: Clicking 
+2022-05-18 23:36:02.2144|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:02.214 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:36:02.5311|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:02.531 PM - Button 'Month button' :: Clicking 
+2022-05-18 23:36:02.8574|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:02.857 PM - Button 'Year element' :: Clicking 
+2022-05-18 23:36:03.1475|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:03.147 PM - Button 'day element' :: Clicking 
+2022-05-18 23:36:03.4304|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:03.430 PM - Close all instanse and browser 
+2022-05-18 23:36:07.0988|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.098 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:07.1189|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.118 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:07.1189|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:07.119 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:36:07.1189|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.119 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-18 23:36:07.1327|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.132 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-18 23:36:07.2133|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.213 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:07.2340|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.234 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:07.2340|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:07.234 PM - [ Step 2 ]: Click Button to see Browser Windows page 
+2022-05-18 23:36:07.2483|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.248 PM - Button 'Navigation button Browser Windows' :: Scrolling into view 
+2022-05-18 23:36:07.2858|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.285 PM - Button 'Navigation button Browser Windows' :: Clicking 
+2022-05-18 23:36:07.3574|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.357 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:07.3576|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:07.357 PM - [ Step 3 ]: Click Button New Tab 
+2022-05-18 23:36:07.3701|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.370 PM - Button 'Tab button' :: Clicking 
+2022-05-18 23:36:07.5851|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:07.585 PM - [ Step 4 ]: Close  window 
+2022-05-18 23:36:07.6521|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.652 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:07.6521|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:07.652 PM - [ Step 5 ]: Select Element links in left menu 
+2022-05-18 23:36:07.6665|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.666 PM - Button 'Navigation button Elements' :: Scrolling into view 
+2022-05-18 23:36:07.6856|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:07.685 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-18 23:36:08.2384|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:08.238 PM - Button 'Navigation button Links' :: Scrolling into view 
+2022-05-18 23:36:08.2580|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:08.258 PM - Button 'Navigation button Links' :: Clicking 
+2022-05-18 23:36:08.3190|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:08.319 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:08.3408|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:08.340 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:08.3408|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:08.341 PM - [ Step 6 ]: Go to link Home 
+2022-05-18 23:36:08.3566|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:08.356 PM - Link 'simpleLink' :: Clicking 
+2022-05-18 23:36:08.9936|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:08.993 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:08.9936|0|INFO|WebDriverFramework.WebDriver.Logger|DatePickerTest 05/18/2022 11:36:08.993 PM - [ Step 7 ]: Switch to previous tab 
+2022-05-18 23:36:09.0249|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:09.024 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:09.0249|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:09.025 PM - Close all instanse and browser 
+2022-05-18 23:36:12.3100|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.310 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:12.3296|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.329 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:12.3296|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:12.329 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-18 23:36:12.3296|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.330 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-18 23:36:12.3431|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.343 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-18 23:36:12.4272|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.427 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:12.4439|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.443 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:12.4439|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:12.444 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-18 23:36:12.4605|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.460 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-18 23:36:12.4825|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:12.482 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-18 23:36:12.5191|0|INFO|WebDriverFramework.WebDriver.Logger|HandlesTest 05/18/2022 11:36:12.519 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-18 23:36:14.5545|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:14.554 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:14.6299|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:14.629 PM - Close all instanse and browser 
+2022-05-18 23:36:17.5698|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.569 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:17.5898|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.589 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:17.5898|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:17.590 PM - [ Step 1 ]: Click Browser Windows page 
+2022-05-18 23:36:17.5898|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.590 PM - Button 'Navigation button Widgets' :: Perform click and wait for page to load 
+2022-05-18 23:36:17.6031|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.603 PM - Button 'Navigation button Widgets' :: Clicking 
+2022-05-18 23:36:17.6847|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.684 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:17.7050|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.705 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:17.7050|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:17.705 PM - [ Step 2 ]: Click Button to see Browser Windows page 
+2022-05-18 23:36:17.7196|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.719 PM - Button 'Navigation button Slider' :: Scrolling into view 
+2022-05-18 23:36:17.7414|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.741 PM - Button 'Navigation button Slider' :: Clicking 
+2022-05-18 23:36:17.8279|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.827 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:17.8454|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:17.845 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:17.8454|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/18/2022 11:36:17.845 PM - [ Step 3 ]: Set slider to random value Slider 
+2022-05-18 23:36:19.2108|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:19.210 PM - Close all instanse and browser 
+2022-05-18 23:36:22.2128|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.212 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:22.2330|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.233 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:22.2330|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:22.233 PM - [ Step 1 ]: Click Elements 
+2022-05-18 23:36:22.2330|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.233 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-18 23:36:22.2467|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.246 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-18 23:36:22.3342|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.334 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:22.3561|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.356 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:22.3561|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:22.356 PM - [ Step 2 ]: Click Web Tables 
+2022-05-18 23:36:22.3828|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.382 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-18 23:36:22.4059|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.405 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-18 23:36:22.4773|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:22.477 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-18 23:36:22.5016|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.501 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:22.5322|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.532 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:22.5471|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.547 PM - Button 'Add button' :: Clicking 
+2022-05-18 23:36:22.6021|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.602 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-18 23:36:22.8176|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.817 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-18 23:36:22.9013|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:22.901 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-18 23:36:23.0057|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:23.005 PM - TextField 'text field' :: Typing '41' 
+2022-05-18 23:36:23.0556|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:23.055 PM - TextField 'text field' :: Typing '2000' 
+2022-05-18 23:36:23.1105|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:23.110 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-18 23:36:23.1753|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:23.175 PM - Button 'Submot button' :: Clicking 
+2022-05-18 23:36:23.9114|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:23.911 PM - [ Step 4 ]: Delete user 
+2022-05-18 23:36:23.9243|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:23.924 PM - Button 'Delete icon' :: Clicking 
+2022-05-18 23:36:24.2871|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:24.287 PM - Close all instanse and browser 
+2022-05-18 23:36:27.2249|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.224 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:27.2427|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.242 PM - Form 'Home Page' :: appears 
+2022-05-18 23:36:27.2427|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:27.242 PM - [ Step 1 ]: Click Elements 
+2022-05-18 23:36:27.2427|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.243 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-18 23:36:27.2561|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.256 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-18 23:36:27.3417|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.341 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:27.3587|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.358 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:27.3587|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:27.358 PM - [ Step 2 ]: Click Web Tables 
+2022-05-18 23:36:27.3747|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.374 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-18 23:36:27.4080|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.408 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-18 23:36:27.4781|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:27.478 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-18 23:36:27.5020|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.502 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:27.5314|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.531 PM - Form 'Navigation Page' :: appears 
+2022-05-18 23:36:27.5447|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.544 PM - Button 'Add button' :: Clicking 
+2022-05-18 23:36:27.6131|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.613 PM - TextField 'text field' :: Typing 'Jon' 
+2022-05-18 23:36:27.8012|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.801 PM - TextField 'text field' :: Typing 'Snow' 
+2022-05-18 23:36:27.8589|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.858 PM - TextField 'text field' :: Typing 'knownothing@gmail.com' 
+2022-05-18 23:36:27.9454|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:27.945 PM - TextField 'text field' :: Typing '30' 
+2022-05-18 23:36:28.0010|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:28.001 PM - TextField 'text field' :: Typing '3000' 
+2022-05-18 23:36:28.0548|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:28.054 PM - TextField 'text field' :: Typing 'alpha' 
+2022-05-18 23:36:28.1202|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:28.120 PM - Button 'Submot button' :: Clicking 
+2022-05-18 23:36:28.8441|0|INFO|WebDriverFramework.WebDriver.Logger|SlidersProgressTest 05/18/2022 11:36:28.844 PM - [ Step 4 ]: Delete user 
+2022-05-18 23:36:28.8570|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:28.857 PM - Button 'Delete icon' :: Clicking 
+2022-05-18 23:36:29.2181|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/18/2022 11:36:29.218 PM - Close all instanse and browser 

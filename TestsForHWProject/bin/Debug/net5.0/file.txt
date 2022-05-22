@@ -1,0 +1,8 @@
+2022-05-14 09:20:04.2512|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:20:04.249 AM - Close all instanse and browser
+2022-05-14 09:21:50.5980|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:21:50.596 AM - Close all instanse and browser
+2022-05-14 09:22:40.2490|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:22:40.247 AM - Close all instanse and browser
+2022-05-14 09:27:56.6671|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:27:56.665 AM - Close all instanse and browser
+2022-05-14 09:28:23.7932|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:28:23.791 AM - Close all instanse and browser
+2022-05-14 09:28:38.5634|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:28:38.562 AM - Close all instanse and browser
+2022-05-14 09:29:51.8645|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:29:51.863 AM - Close all instanse and browser
+2022-05-14 09:37:45.8420|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 09:37:45.840 AM - Close all instanse and browser

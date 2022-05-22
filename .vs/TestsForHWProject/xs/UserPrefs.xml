@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{5243CEC5-3EEF-4502-9953-0BAD1354C873}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebDriverFramework/Util/FileExtensions.cs">
+    <Files>
+      <File FileName="PageObjects/DocumentDownloadingPage.cs" Line="23" Column="1" />
+      <File FileName="TestsForHWProject/FileTest.cs" />
+      <File FileName="WebDriverFramework/Util/FileExtensions.cs" Line="25" Column="1" />
+      <File FileName="WebDriverFramework/WebDriver/BrowserFactory.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestsForHWProject" expanded="True">
+            <Node name="PageObjects" expanded="True" />
+            <Node name="TestsForHWProject" expanded="True">
+              <Node name="Logs" expanded="True" />
+            </Node>
+            <Node name="WebDriverFramework" expanded="True">
+              <Node name="Util" expanded="True">
+                <Node name="FileExtensions.cs" selected="True" />
+              </Node>
+              <Node name="WebDriver" expanded="True">
+                <Node name="Elements" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestsForHWProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestsForHWProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BrowserFactory.cs" relfile="WebDriverFramework/WebDriver/BrowserFactory.cs" line="44" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BrowserFactory.cs" relfile="WebDriverFramework/WebDriver/BrowserFactory.cs" line="45" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/IFramePage.cs" relfile="PageObjects/IFramePage.cs" line="9" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/IFramePage.cs" relfile="PageObjects/IFramePage.cs" line="8" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/IFramePage.cs" relfile="PageObjects/IFramePage.cs" line="13" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseForm.cs" relfile="WebDriverFramework/WebDriver/BaseForm.cs" line="147" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseForm.cs" relfile="WebDriverFramework/WebDriver/BaseForm.cs" line="144" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseForm.cs" relfile="WebDriverFramework/WebDriver/BaseForm.cs" line="146" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/TestsForHWProject/DatePickerTest.cs" relfile="TestsForHWProject/DatePickerTest.cs" line="71" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/Elements/DatePicker.cs" relfile="WebDriverFramework/WebDriver/Elements/DatePicker.cs" line="44" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/Elements/DatePicker.cs" relfile="WebDriverFramework/WebDriver/Elements/DatePicker.cs" line="45" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/Elements/DatePicker.cs" relfile="WebDriverFramework/WebDriver/Elements/DatePicker.cs" line="47" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/Elements/DatePicker.cs" relfile="WebDriverFramework/WebDriver/Elements/DatePicker.cs" line="48" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/DocumentDownloadingPage.cs" relfile="PageObjects/DocumentDownloadingPage.cs" line="21" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/Util/FileExtensions.cs" relfile="WebDriverFramework/Util/FileExtensions.cs" line="25" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/Util/FileExtensions.cs" relfile="WebDriverFramework/Util/FileExtensions.cs" line="26" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/DocumentDownloadingPage.cs" relfile="PageObjects/DocumentDownloadingPage.cs" line="23" column="1" />
+      <Breakpoint file="/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/DocumentDownloadingPage.cs" relfile="PageObjects/DocumentDownloadingPage.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/nastiesdi/.dotnet/store/|arch|/|tfm|",
+      "/Users/nastiesdi/.nuget/packages"
+    ]
+  }
+}

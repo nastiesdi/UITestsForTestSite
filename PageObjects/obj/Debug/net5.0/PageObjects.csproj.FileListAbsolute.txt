@@ -1,0 +1,17 @@
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/appsettings.json
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/NLog.config
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/PageObjects.deps.json
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/PageObjects.dll
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/ref/PageObjects.dll
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/PageObjects.pdb
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/WebDriverFramework.dll
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/bin/Debug/net5.0/WebDriverFramework.pdb
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.csproj.AssemblyReference.cache
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.AssemblyInfoInputs.cache
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.AssemblyInfo.cs
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.csproj.CoreCompileInputs.cache
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.csproj.CopyComplete
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.dll
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/ref/PageObjects.dll
+/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/Debug/net5.0/PageObjects.pdb

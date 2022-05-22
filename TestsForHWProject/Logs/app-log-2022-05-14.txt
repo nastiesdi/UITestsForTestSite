@@ -1,0 +1,2 @@
+2022-05-14 11:08:02.1327|0|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 11:08:02.132 AM - Close all instanse and browser 
+2022-05-14 12:05:49.3512|0|INFO|WebDriverFramework.WebDriver.Logger|Me neame05/14/2022 12:05:49.350 PM - Close all instanse and browser 

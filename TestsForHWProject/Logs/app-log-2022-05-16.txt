@@ -1,0 +1,742 @@
+2022-05-16 17:39:20.8996|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:20.899 PM - Form 'Home Page' :: appears 
+2022-05-16 17:39:20.9612|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:20.961 PM - Form 'Home Page' :: appears 
+2022-05-16 17:39:20.9631|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:20.963 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:39:20.9641|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:20.964 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:39:20.9879|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:20.987 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:39:21.1666|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:21.166 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:39:21.1837|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:21.183 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:39:21.1837|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:21.184 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:39:21.1851|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:21.185 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:39:21.1980|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:21.198 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:39:22.2569|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:22.256 PM - Button 'Navigation button Frames' :: An exception accured while we were trying to click by Navigation button FramesOne attemp yet...
+element click intercepted: Element <li class="btn btn-light " id="item-2">...</li> is not clickable at point (189, 677). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=101.0.4951.64) 
+2022-05-16 17:39:22.2722|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:22.272 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:39:22.2816|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:22.281 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:39:23.3409|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:39:23.340 PM - Close all instanse and browser 
+2022-05-16 17:40:39.1068|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.106 PM - Form 'Home Page' :: appears 
+2022-05-16 17:40:39.1609|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.160 PM - Form 'Home Page' :: appears 
+2022-05-16 17:40:39.1619|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.161 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:40:39.1629|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.162 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:40:39.1767|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.176 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:40:39.2727|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.272 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:40:39.2887|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.288 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:40:39.2887|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.288 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:40:39.2900|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.290 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:40:39.3030|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:39.303 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:40:40.3846|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:40.384 PM - Button 'Navigation button Frames' :: An exception accured while we were trying to click by Navigation button FramesOne attemp yet...
+element click intercepted: Element <li class="btn btn-light " id="item-2">...</li> is not clickable at point (189, 677). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=101.0.4951.64) 
+2022-05-16 17:40:40.3977|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:40.397 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:40:40.4097|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:40.409 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:40:41.4677|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:40:41.467 PM - Close all instanse and browser 
+2022-05-16 17:41:11.0492|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.048 PM - Form 'Home Page' :: appears 
+2022-05-16 17:41:11.0942|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.094 PM - Form 'Home Page' :: appears 
+2022-05-16 17:41:11.0953|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.095 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:41:11.0962|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.096 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:41:11.1099|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.109 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:41:11.2145|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.214 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:41:11.2565|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.256 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:41:11.2568|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.256 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:41:11.2580|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.258 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:41:11.2731|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:11.273 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:41:12.3519|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:12.351 PM - Button 'Navigation button Frames' :: An exception accured while we were trying to click by Navigation button FramesOne attemp yet...
+element click intercepted: Element <li class="btn btn-light " id="item-2">...</li> is not clickable at point (189, 677). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=101.0.4951.64) 
+2022-05-16 17:41:12.3682|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:12.368 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:41:12.3796|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:12.379 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:41:13.4149|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:41:13.414 PM - Close all instanse and browser 
+2022-05-16 17:44:26.7416|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:26.741 PM - Form 'Home Page' :: appears 
+2022-05-16 17:44:26.8240|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:26.824 PM - Form 'Home Page' :: appears 
+2022-05-16 17:44:26.8259|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:26.825 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:44:26.8271|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:26.827 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:44:26.8483|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:26.848 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:44:27.0280|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:27.028 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:44:27.0439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:27.043 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:44:27.0439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:27.044 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:44:27.0452|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:27.045 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:44:27.0583|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:27.058 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:44:48.9874|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:48.986 PM - Form 'Home Page' :: appears 
+2022-05-16 17:44:49.0675|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.067 PM - Form 'Home Page' :: appears 
+2022-05-16 17:44:49.0685|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.068 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:44:49.0695|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.069 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:44:49.0840|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.084 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:44:49.2411|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.241 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:44:49.2589|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.258 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:44:49.2589|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.259 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:44:49.2602|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.260 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:44:49.2733|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:49.273 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:44:50.3230|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:50.322 PM - Button 'Navigation button Frames' :: An exception accured while we were trying to click by Navigation button FramesOne attemp yet...
+element click intercepted: Element <li class="btn btn-light " id="item-2">...</li> is not clickable at point (189, 677). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=101.0.4951.64) 
+2022-05-16 17:44:50.3364|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:50.336 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:44:50.3466|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:50.346 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:44:51.4013|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:51.401 PM - Close all instanse and browser 
+2022-05-16 17:44:56.5565|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.555 PM - Form 'Home Page' :: appears 
+2022-05-16 17:44:56.6320|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.632 PM - Form 'Home Page' :: appears 
+2022-05-16 17:44:56.6331|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.633 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:44:56.6340|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.634 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:44:56.6496|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.649 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:44:56.8433|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.843 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:44:56.9469|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.946 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:44:56.9469|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.947 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:44:56.9482|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.948 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:44:56.9735|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:56.973 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:44:58.0286|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:58.028 PM - Button 'Navigation button Frames' :: An exception accured while we were trying to click by Navigation button FramesOne attemp yet...
+element click intercepted: Element <li class="btn btn-light " id="item-2">...</li> is not clickable at point (189, 652). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=101.0.4951.64) 
+2022-05-16 17:44:58.0414|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:58.041 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:44:58.0514|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:44:58.051 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:45:33.2493|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:45:33.249 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 17:45:33.2499|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:45:33.249 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 17:45:33.2499|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:45:33.250 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 17:46:25.3143|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.313 PM - Form 'Home Page' :: appears 
+2022-05-16 17:46:25.4134|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.413 PM - Form 'Home Page' :: appears 
+2022-05-16 17:46:25.4145|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.414 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:46:25.4155|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.415 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:46:25.4311|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.431 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:46:25.5558|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.555 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:46:25.5761|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.576 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:46:25.5761|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.576 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:46:25.5776|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.577 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:46:25.5911|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:25.591 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:46:26.7113|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:26.711 PM - Button 'Navigation button Frames' :: An exception accured while we were trying to click by Navigation button FramesOne attemp yet...
+element click intercepted: Element <li class="btn btn-light " id="item-2">...</li> is not clickable at point (189, 677). Other element would receive the click: <div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:9999999">...</div>
+  (Session info: chrome=101.0.4951.64) 
+2022-05-16 17:46:26.7259|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:26.725 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:46:26.7353|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:26.735 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:46:27.7827|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:27.782 PM - Close all instanse and browser 
+2022-05-16 17:46:33.4541|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.453 PM - Form 'Home Page' :: appears 
+2022-05-16 17:46:33.5354|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.535 PM - Form 'Home Page' :: appears 
+2022-05-16 17:46:33.5368|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.536 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:46:33.5378|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.537 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:46:33.5770|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.577 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:46:33.7246|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.724 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:46:33.7419|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.741 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:46:33.7419|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.742 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:46:33.7433|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.743 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:46:33.7567|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:46:33.756 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:47:08.9101|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:47:08.909 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 17:47:08.9105|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:47:08.910 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 17:47:08.9123|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:47:08.912 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 17:48:48.1737|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.173 PM - Form 'Home Page' :: appears 
+2022-05-16 17:48:48.2873|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.287 PM - Form 'Home Page' :: appears 
+2022-05-16 17:48:48.2887|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.288 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 17:48:48.2898|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.289 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 17:48:48.3050|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.304 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 17:48:48.4430|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.443 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:48:48.4645|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.464 PM - Form 'Navigation Page' :: appears 
+2022-05-16 17:48:48.4647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.464 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 17:48:48.4798|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.479 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 17:48:48.5578|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.557 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 17:48:48.5703|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:48:48.570 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 17:50:16.7206|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:50:16.720 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 17:50:16.7206|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:50:16.721 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 17:50:16.7216|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 05:50:16.721 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:10:11.4522|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.451 PM - Form 'Home Page' :: appears 
+2022-05-16 18:10:11.5758|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.575 PM - Form 'Home Page' :: appears 
+2022-05-16 18:10:11.5769|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.576 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:10:11.5780|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.578 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:10:11.5956|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.595 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:10:11.7542|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.754 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:10:11.8447|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.844 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:10:11.8447|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.844 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:10:11.8625|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.862 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:10:11.8763|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.876 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 18:10:11.8880|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.887 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:10:11.9265|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:11.926 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:10:47.4000|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:47.399 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 18:10:47.4016|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:47.401 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:10:47.4024|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:10:47.402 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:12:43.6239|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.623 PM - Form 'Home Page' :: appears 
+2022-05-16 18:12:43.6686|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.668 PM - Form 'Home Page' :: appears 
+2022-05-16 18:12:43.6697|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.669 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:12:43.6706|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.670 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:12:43.6865|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.686 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:12:43.7903|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.790 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:12:43.8072|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.807 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:12:43.8074|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.807 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:12:43.8289|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.828 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:12:43.8395|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.839 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 18:12:43.8558|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.855 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:12:43.8954|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:12:43.895 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:13:14.3961|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.395 PM - Form 'Home Page' :: appears 
+2022-05-16 18:13:14.4986|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.498 PM - Form 'Home Page' :: appears 
+2022-05-16 18:13:14.4997|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.499 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:13:14.5006|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.500 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:13:14.5148|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.514 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:13:14.6619|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.661 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:13:14.6812|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.681 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:13:14.6978|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.697 PM - Button 'Navigation button Alerts' :: Scrolling into view 
+2022-05-16 18:13:14.7812|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.781 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:13:14.7939|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.793 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:13:14.8530|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.853 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:13:14.8530|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.853 PM - [ Step 2 ]: Click Button to see alert 
+2022-05-16 18:13:14.8848|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:14.884 PM - Button 'Allert button with id alertButton' :: Clicking 
+2022-05-16 18:13:16.9382|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:16.938 PM - Expected alert text : You clicked a button, Actual alert test: You clicked a button 
+2022-05-16 18:13:16.9385|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:16.938 PM - [ Step 3 ]: Click 'OK' button 
+2022-05-16 18:13:18.9412|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:18.941 PM - [ Step 4 ]: Click Button to see Confirmation Alertalert 
+2022-05-16 18:13:18.9758|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:18.975 PM - Button 'Allert button with id confirmButton' :: Clicking 
+2022-05-16 18:13:21.0273|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:21.027 PM - Expected alert text : Do you confirm action?, Actual alert test: Do you confirm action? 
+2022-05-16 18:13:21.0273|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:21.027 PM - [ Step 5 ]: Click 'OK' button 
+2022-05-16 18:13:23.0662|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:23.066 PM - [ Step 6 ]: Click Button to see  prompt box will appear 
+2022-05-16 18:13:23.0802|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:23.080 PM - Button 'Allert button with id promtButton' :: Clicking 
+2022-05-16 18:13:25.1431|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:25.143 PM - Expected alert text : Please enter your name, Actual alert test: Please enter your name 
+2022-05-16 18:13:25.1435|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:25.143 PM - [ Step 7 ]: Enter Text and click  'OK' button 
+2022-05-16 18:13:29.1851|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:13:29.185 PM - Close all instanse and browser 
+2022-05-16 18:14:40.5227|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.522 PM - Form 'Home Page' :: appears 
+2022-05-16 18:14:40.5859|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.585 PM - Form 'Home Page' :: appears 
+2022-05-16 18:14:40.5871|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.587 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:14:40.5881|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.588 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:14:40.6274|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.627 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:14:40.7672|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.767 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:14:40.7830|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.783 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:14:40.7830|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.783 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:14:40.7974|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.797 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:14:40.8086|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.808 PM - Button 'Navigation button Frames' :: Perform click and wait for page to load 
+2022-05-16 18:14:40.8198|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.819 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:14:40.8563|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:14:40.856 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:16:08.9298|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:08.929 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 18:16:08.9304|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:08.930 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:16:08.9304|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:08.930 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:16:14.4956|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.495 PM - Form 'Home Page' :: appears 
+2022-05-16 18:16:14.5897|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.589 PM - Form 'Home Page' :: appears 
+2022-05-16 18:16:14.5909|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.590 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:16:14.5921|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.592 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:16:14.6729|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.672 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:16:14.7647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.764 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:16:14.7812|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.781 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:16:14.7814|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.781 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:16:14.7970|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.797 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:16:14.8193|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.819 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:16:14.8519|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:16:14.851 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:17:42.9286|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:17:42.928 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 18:17:42.9286|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:17:42.929 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:17:42.9294|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:17:42.929 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:18:06.7680|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.767 PM - Form 'Home Page' :: appears 
+2022-05-16 18:18:06.8108|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.810 PM - Form 'Home Page' :: appears 
+2022-05-16 18:18:06.8119|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.811 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:18:06.8128|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.812 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:18:06.8266|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.826 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:18:06.9542|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.954 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:18:06.9784|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.978 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:18:06.9784|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.978 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:18:06.9933|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:06.993 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:18:07.0255|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:07.025 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:18:07.1398|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:07.139 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:18:07.1410|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:18:07.141 PM - Close all instanse and browser 
+2022-05-16 18:21:06.7605|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:06.760 PM - Form 'Home Page' :: appears 
+2022-05-16 18:21:06.8497|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:06.849 PM - Form 'Home Page' :: appears 
+2022-05-16 18:21:06.8512|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:06.851 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:21:06.8525|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:06.852 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:21:06.8676|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:06.867 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:21:07.0165|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:07.016 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:21:07.0339|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:07.033 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:21:07.0339|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:07.034 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:21:07.0488|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:07.048 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:21:07.0719|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:07.071 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:21:07.1093|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:07.109 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:21:42.6226|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:42.622 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 18:21:42.6226|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:42.623 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:21:42.6235|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:21:42.623 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'Alerts')] 
+2022-05-16 18:27:46.7279|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:46.727 PM - Form 'Home Page' :: appears 
+2022-05-16 18:27:46.8190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:46.818 PM - Form 'Home Page' :: appears 
+2022-05-16 18:27:46.8200|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:46.820 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:27:46.8210|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:46.820 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:27:46.9026|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:46.902 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:27:46.9994|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:46.999 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:27:47.0156|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:47.015 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:27:47.0156|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:47.015 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:27:47.0301|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:47.030 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:27:47.0551|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:47.055 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:27:47.0898|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:47.089 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:27:47.1157|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:27:47.115 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:28:31.2588|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:28:31.258 PM - Close all instanse and browser 
+2022-05-16 18:30:30.5306|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.529 PM - Form 'Home Page' :: appears 
+2022-05-16 18:30:30.6183|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.618 PM - Form 'Home Page' :: appears 
+2022-05-16 18:30:30.6198|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.619 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:30:30.6208|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.620 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:30:30.6372|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.637 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:30:30.8129|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.812 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:30:30.8290|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.829 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:30:30.8434|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.843 PM - Button 'Navigation button Alerts' :: Scrolling into view 
+2022-05-16 18:30:30.8655|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.865 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:30:30.9122|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.912 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:30:30.9125|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.912 PM - [ Step 2 ]: Click Button to see alert 
+2022-05-16 18:30:30.9269|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:30.926 PM - Button 'Allert button with id alertButton' :: Clicking 
+2022-05-16 18:30:32.9847|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:32.984 PM - Expected alert text : You clicked a button, Actual alert test: You clicked a button 
+2022-05-16 18:30:32.9847|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:32.985 PM - [ Step 3 ]: Click 'OK' button 
+2022-05-16 18:30:34.9882|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:34.988 PM - [ Step 4 ]: Click Button to see Confirmation Alertalert 
+2022-05-16 18:30:35.0136|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:35.013 PM - Button 'Allert button with id confirmButton' :: Clicking 
+2022-05-16 18:30:37.0644|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:37.064 PM - Expected alert text : Do you confirm action?, Actual alert test: Do you confirm action? 
+2022-05-16 18:30:37.0644|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:37.064 PM - [ Step 5 ]: Click 'OK' button 
+2022-05-16 18:30:39.0918|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:39.091 PM - [ Step 6 ]: Click Button to see  prompt box will appear 
+2022-05-16 18:30:39.1051|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:39.105 PM - Button 'Allert button with id promtButton' :: Clicking 
+2022-05-16 18:30:41.1674|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:41.167 PM - Expected alert text : Please enter your name, Actual alert test: Please enter your name 
+2022-05-16 18:30:41.1674|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:41.167 PM - [ Step 7 ]: Enter Text and click  'OK' button 
+2022-05-16 18:30:45.2045|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:30:45.204 PM - Close all instanse and browser 
+2022-05-16 18:31:48.9249|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:48.924 PM - Form 'Home Page' :: appears 
+2022-05-16 18:31:49.0511|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.051 PM - Form 'Home Page' :: appears 
+2022-05-16 18:31:49.0525|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.052 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:31:49.0538|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.053 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:31:49.0998|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.099 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:31:49.3030|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.303 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:31:49.3202|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.320 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:31:49.3202|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.320 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:31:49.3387|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.338 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:31:49.3630|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.363 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:31:49.3983|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:49.398 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:31:51.4265|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:31:51.426 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:32:35.5333|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:32:35.533 PM - Close all instanse and browser 
+2022-05-16 18:37:50.6646|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.663 PM - Form 'Home Page' :: appears 
+2022-05-16 18:37:50.7443|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.744 PM - Form 'Home Page' :: appears 
+2022-05-16 18:37:50.7455|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.745 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:37:50.7465|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.746 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:37:50.7623|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.762 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:37:50.9356|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.935 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:37:50.9517|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.951 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:37:50.9517|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.951 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:37:50.9662|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.966 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:37:50.9881|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:50.988 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:37:51.0197|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:51.019 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:37:53.0471|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:37:53.047 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:38:37.1285|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:37.128 PM - Close all instanse and browser 
+2022-05-16 18:38:47.5085|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.507 PM - Form 'Home Page' :: appears 
+2022-05-16 18:38:47.5670|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.567 PM - Form 'Home Page' :: appears 
+2022-05-16 18:38:47.5681|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.568 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:38:47.5690|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.569 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:38:47.6044|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.604 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:38:47.7799|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.779 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:38:47.7959|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.795 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:38:47.7959|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.796 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:38:47.8105|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.810 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:38:47.8337|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.833 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:38:47.8678|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:38:47.867 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:45:12.9147|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:12.914 PM - Form 'Home Page' :: appears 
+2022-05-16 18:45:13.0797|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.079 PM - Form 'Home Page' :: appears 
+2022-05-16 18:45:13.0809|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.080 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:45:13.0820|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.082 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:45:13.1209|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.120 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:45:13.2781|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.278 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:45:13.3221|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.322 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:45:13.3224|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.322 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:45:13.3637|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.363 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:45:13.3879|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.387 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:45:13.4455|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:13.445 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:45:27.8197|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:45:27.819 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:46:33.5885|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:46:33.588 PM - Close all instanse and browser 
+2022-05-16 18:49:56.6389|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.637 PM - Form 'Home Page' :: appears 
+2022-05-16 18:49:56.7097|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.709 PM - Form 'Home Page' :: appears 
+2022-05-16 18:49:56.7112|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.711 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:49:56.7122|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.712 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:49:56.7986|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.798 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:49:56.9024|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.902 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:49:56.9190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.919 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:49:56.9190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.919 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:49:56.9341|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.934 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:49:56.9578|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.957 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:49:56.9897|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:56.989 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:49:59.0257|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:59.025 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:49:59.1030|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:49:59.103 PM - Close all instanse and browser 
+2022-05-16 18:51:16.3510|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.350 PM - Form 'Home Page' :: appears 
+2022-05-16 18:51:16.4103|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.410 PM - Form 'Home Page' :: appears 
+2022-05-16 18:51:16.4113|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.411 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:51:16.4124|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.412 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:51:16.4383|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.438 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:51:16.6603|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.660 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:51:16.6820|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.682 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:51:16.6996|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.699 PM - Button 'Navigation button Alerts' :: Scrolling into view 
+2022-05-16 18:51:16.7207|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.720 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:51:16.7670|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.767 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:51:16.7670|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.767 PM - [ Step 2 ]: Click Button to see alert 
+2022-05-16 18:51:16.7827|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:16.782 PM - Button 'Allert button with id alertButton' :: Clicking 
+2022-05-16 18:51:18.8526|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:18.852 PM - Expected alert text : You clicked a button, Actual alert test: You clicked a button 
+2022-05-16 18:51:18.8530|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:18.853 PM - [ Step 3 ]: Click 'OK' button 
+2022-05-16 18:51:20.8556|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:20.855 PM - [ Step 4 ]: Click Button to see Confirmation Alertalert 
+2022-05-16 18:51:20.8917|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:20.891 PM - Button 'Allert button with id confirmButton' :: Clicking 
+2022-05-16 18:51:22.9479|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:22.947 PM - Expected alert text : Do you confirm action?, Actual alert test: Do you confirm action? 
+2022-05-16 18:51:22.9479|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:22.948 PM - [ Step 5 ]: Click 'OK' button 
+2022-05-16 18:51:24.9869|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:24.986 PM - [ Step 6 ]: Click Button to see  prompt box will appear 
+2022-05-16 18:51:25.0056|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:25.005 PM - Button 'Allert button with id promtButton' :: Clicking 
+2022-05-16 18:51:27.1061|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:27.106 PM - Expected alert text : Please enter your name, Actual alert test: Please enter your name 
+2022-05-16 18:51:27.1061|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:27.106 PM - [ Step 7 ]: Enter Text and click  'OK' button 
+2022-05-16 18:51:31.1389|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:51:31.138 PM - Close all instanse and browser 
+2022-05-16 18:51:33.9024|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:33.902 PM - Form 'Home Page' :: appears 
+2022-05-16 18:51:33.9212|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:33.921 PM - Form 'Home Page' :: appears 
+2022-05-16 18:51:33.9212|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 06:51:33.921 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:51:33.9212|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:33.921 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:51:33.9374|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:33.937 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:51:34.0666|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:34.066 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:51:34.0869|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:34.086 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:51:34.0869|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 06:51:34.087 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:51:34.1704|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:34.170 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:51:34.1914|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:34.191 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:51:34.2266|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 06:51:34.226 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:51:36.2611|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:36.261 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:51:36.3370|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 06:51:36.337 PM - Close all instanse and browser 
+2022-05-16 18:52:04.4085|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.408 PM - Form 'Home Page' :: appears 
+2022-05-16 18:52:04.4701|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.470 PM - Form 'Home Page' :: appears 
+2022-05-16 18:52:04.4713|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.471 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:52:04.4725|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.472 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:52:04.6448|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.644 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:52:04.7652|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.765 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:04.7833|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.783 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:04.7833|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.783 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:52:04.7983|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.798 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:52:04.8184|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.818 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:52:04.8499|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:04.849 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:52:06.8781|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:06.878 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:06.9766|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:06.976 PM - Close all instanse and browser 
+2022-05-16 18:52:12.5168|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.516 PM - Form 'Home Page' :: appears 
+2022-05-16 18:52:12.5845|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.584 PM - Form 'Home Page' :: appears 
+2022-05-16 18:52:12.5859|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.585 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:52:12.5872|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.587 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:52:12.6699|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.669 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:52:12.7698|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.769 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:12.7860|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.786 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:12.7860|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.786 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:52:12.8004|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.800 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:52:12.8234|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.823 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:52:12.8545|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:12.854 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:52:14.8878|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:14.887 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:14.9701|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:14.970 PM - Close all instanse and browser 
+2022-05-16 18:52:42.2571|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.256 PM - Form 'Home Page' :: appears 
+2022-05-16 18:52:42.3228|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.322 PM - Form 'Home Page' :: appears 
+2022-05-16 18:52:42.3242|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.324 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:52:42.3254|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.325 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:52:42.4121|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.412 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:52:42.5138|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.513 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:42.5309|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.530 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:42.5312|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.531 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:52:42.5461|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.546 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:52:42.5698|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.569 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:52:42.6043|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:42.604 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:52:44.6360|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:44.636 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:52:44.7589|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:52:44.758 PM - Close all instanse and browser 
+2022-05-16 18:53:00.1622|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.161 PM - Form 'Home Page' :: appears 
+2022-05-16 18:53:00.2527|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.252 PM - Form 'Home Page' :: appears 
+2022-05-16 18:53:00.2541|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.254 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 18:53:00.2557|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.255 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 18:53:00.2716|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.271 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 18:53:00.4214|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.421 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:53:00.4377|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.437 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:53:00.4377|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.437 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 18:53:00.4523|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.452 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 18:53:00.4746|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.474 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 18:53:00.5072|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:00.507 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 18:53:02.5420|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:02.541 PM - Form 'Navigation Page' :: appears 
+2022-05-16 18:53:02.6249|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 06:53:02.624 PM - Close all instanse and browser 
+2022-05-16 20:36:55.9805|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:55.980 PM - Form 'Home Page' :: appears 
+2022-05-16 20:36:56.0929|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.092 PM - Form 'Home Page' :: appears 
+2022-05-16 20:36:56.0940|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.094 PM - [ Step 1 ]: Click Elements 
+2022-05-16 20:36:56.0949|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.094 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 20:36:56.1110|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.111 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 20:36:56.2330|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.233 PM - Form 'Navigation Page' :: appears 
+2022-05-16 20:36:56.3228|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.322 PM - Form 'Navigation Page' :: appears 
+2022-05-16 20:36:56.3228|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.323 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 20:36:56.3383|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.338 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 20:36:56.3627|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.362 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 20:36:56.4241|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:56.424 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 20:36:58.4269|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 08:36:58.426 PM - Close all instanse and browser 
+2022-05-16 21:03:18.0955|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.094 PM - Form 'Home Page' :: appears 
+2022-05-16 21:03:18.2172|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.217 PM - Form 'Home Page' :: appears 
+2022-05-16 21:03:18.2186|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.218 PM - [ Step 1 ]: Click Elements 
+2022-05-16 21:03:18.2196|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.219 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 21:03:18.2335|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.233 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 21:03:18.3229|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.322 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:03:18.3405|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.340 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:03:18.3405|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.340 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 21:03:18.3556|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.355 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 21:03:18.3770|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.377 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 21:03:18.4380|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:03:18.438 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 21:04:46.5147|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:04:46.514 PM - Element is not present: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'WebTables')]
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at WebDriverFramework.WebDriver.BaseElement.IsPresent(Int32 sec) in /Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriver/BaseElement.cs:line 456 
+2022-05-16 21:04:46.5147|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:04:46.515 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'WebTables')] 
+2022-05-16 21:04:46.5158|0|FATAL|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:04:46.515 PM - Timed out after 30 seconds
+Label 'Navigation Page' ::  is not Present by locator: By.XPath: //div[contains(@class, 'main-header') and contains(text(), 'WebTables')] 
+2022-05-16 21:12:14.6079|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.607 PM - Form 'Home Page' :: appears 
+2022-05-16 21:12:14.6999|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.699 PM - Form 'Home Page' :: appears 
+2022-05-16 21:12:14.7010|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.700 PM - [ Step 1 ]: Click Elements 
+2022-05-16 21:12:14.7019|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.701 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 21:12:14.7853|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.785 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 21:12:14.8824|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.882 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:12:14.9005|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.900 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:12:14.9007|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.900 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 21:12:14.9160|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.915 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 21:12:14.9403|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:14.940 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 21:12:15.0080|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:12:15.008 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 21:13:37.8451|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:37.844 PM - Form 'Home Page' :: appears 
+2022-05-16 21:13:37.9263|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:37.926 PM - Form 'Home Page' :: appears 
+2022-05-16 21:13:37.9276|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:37.927 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 21:13:37.9291|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:37.929 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 21:13:37.9459|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:37.945 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 21:13:38.0900|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:38.089 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:13:38.1057|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:38.105 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:13:38.1206|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:38.120 PM - Button 'Navigation button Alerts' :: Scrolling into view 
+2022-05-16 21:13:38.1454|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:38.145 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 21:13:38.1901|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:38.190 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:13:38.1901|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:38.190 PM - [ Step 2 ]: Click Button to see alert 
+2022-05-16 21:13:38.2048|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:38.204 PM - Button 'Allert button with id alertButton' :: Clicking 
+2022-05-16 21:13:40.2647|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:40.264 PM - Expected alert text : You clicked a button, Actual alert test: You clicked a button 
+2022-05-16 21:13:40.2647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:40.264 PM - [ Step 3 ]: Click 'OK' button 
+2022-05-16 21:13:42.2674|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:42.267 PM - [ Step 4 ]: Click Button to see Confirmation Alertalert 
+2022-05-16 21:13:42.2828|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:42.282 PM - Button 'Allert button with id confirmButton' :: Clicking 
+2022-05-16 21:13:44.3398|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:44.339 PM - Expected alert text : Do you confirm action?, Actual alert test: Do you confirm action? 
+2022-05-16 21:13:44.3398|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:44.340 PM - [ Step 5 ]: Click 'OK' button 
+2022-05-16 21:13:46.3765|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:46.376 PM - [ Step 6 ]: Click Button to see  prompt box will appear 
+2022-05-16 21:13:46.3913|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:46.391 PM - Button 'Allert button with id promtButton' :: Clicking 
+2022-05-16 21:13:48.4654|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:48.465 PM - Expected alert text : Please enter your name, Actual alert test: Please enter your name 
+2022-05-16 21:13:48.4658|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:48.465 PM - [ Step 7 ]: Enter Text and click  'OK' button 
+2022-05-16 21:13:52.5054|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:13:52.505 PM - Close all instanse and browser 
+2022-05-16 21:13:54.9175|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:54.917 PM - Form 'Home Page' :: appears 
+2022-05-16 21:13:54.9363|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:54.936 PM - Form 'Home Page' :: appears 
+2022-05-16 21:13:54.9365|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 09:13:54.936 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 21:13:54.9365|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:54.936 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 21:13:55.0218|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:55.021 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 21:13:55.1654|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:55.165 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:13:55.1918|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:55.191 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:13:55.1918|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 09:13:55.192 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 21:13:55.2802|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:55.280 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 21:13:55.2988|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:55.298 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 21:13:55.3321|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 09:13:55.332 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 21:13:57.3681|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:57.368 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:13:57.4414|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:57.441 PM - Close all instanse and browser 
+2022-05-16 21:13:59.7782|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:13:59.778 PM - Form 'Home Page' :: appears 
+2022-05-16 21:13:59.7975|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:13:59.797 PM - Form 'Home Page' :: appears 
+2022-05-16 21:13:59.7975|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:13:59.797 PM - [ Step 1 ]: Click Elements 
+2022-05-16 21:13:59.7975|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:13:59.798 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 21:13:59.8114|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:13:59.811 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 21:13:59.9455|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:13:59.945 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:14:00.0399|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:14:00.039 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:14:00.0399|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:14:00.040 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 21:14:00.0656|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:14:00.065 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 21:14:00.0877|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 09:14:00.087 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 21:14:00.2391|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 09:14:00.239 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 21:14:27.3391|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.338 PM - Form 'Home Page' :: appears 
+2022-05-16 21:14:27.5199|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.519 PM - Form 'Home Page' :: appears 
+2022-05-16 21:14:27.5212|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.521 PM - [ Step 1 ]: Click Elements 
+2022-05-16 21:14:27.5223|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.522 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 21:14:27.5383|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.538 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 21:14:27.6786|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.678 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:14:27.7696|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.769 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:14:27.7696|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.769 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 21:14:27.8120|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.811 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 21:14:27.8861|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.886 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 21:14:27.9786|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:14:27.978 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 21:15:12.7830|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:12.782 PM - Form 'Home Page' :: appears 
+2022-05-16 21:15:12.9029|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:12.902 PM - Form 'Home Page' :: appears 
+2022-05-16 21:15:12.9040|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:12.904 PM - [ Step 1 ]: Click Elements 
+2022-05-16 21:15:12.9051|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:12.905 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 21:15:12.9665|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:12.966 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 21:15:13.0857|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:13.085 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:15:13.1532|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:13.153 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:15:13.1532|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:13.153 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 21:15:13.2152|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:13.215 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 21:15:13.2614|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:13.261 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 21:15:13.3354|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:15:13.335 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 21:19:06.0151|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.014 PM - Form 'Home Page' :: appears 
+2022-05-16 21:19:06.0645|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.064 PM - Form 'Home Page' :: appears 
+2022-05-16 21:19:06.0656|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.065 PM - [ Step 1 ]: Click Elements 
+2022-05-16 21:19:06.0666|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.066 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 21:19:06.0841|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.084 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 21:19:06.2349|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.234 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:19:06.2650|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.265 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:19:06.2650|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.265 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 21:19:06.2839|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.283 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 21:19:06.3949|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.394 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 21:19:06.4983|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.498 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 21:19:06.5370|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.537 PM - Form 'Navigation Page' :: appears 
+2022-05-16 21:19:06.5549|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.554 PM - Button 'Add button' :: Clicking 
+2022-05-16 21:19:06.6189|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 09:19:06.618 PM - Close all instanse and browser 
+2022-05-16 22:26:15.1206|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.120 PM - Form 'Home Page' :: appears 
+2022-05-16 22:26:15.2178|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.217 PM - Form 'Home Page' :: appears 
+2022-05-16 22:26:15.2190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.219 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 22:26:15.2203|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.220 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 22:26:15.2386|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.238 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 22:26:15.4172|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.417 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:26:15.4333|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.433 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:26:15.4333|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.433 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 22:26:15.4475|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.447 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 22:26:15.4677|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.467 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 22:26:15.4993|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:15.499 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 22:26:17.5342|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:17.534 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:26:17.6202|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:26:17.620 PM - Close all instanse and browser 
+2022-05-16 22:27:54.9077|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:54.907 PM - Form 'Home Page' :: appears 
+2022-05-16 22:27:54.9767|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:54.976 PM - Form 'Home Page' :: appears 
+2022-05-16 22:27:54.9779|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:54.977 PM - [ Step 1 ]: Click Elements 
+2022-05-16 22:27:54.9788|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:54.978 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 22:27:55.0134|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.013 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 22:27:55.1684|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.168 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:27:55.1878|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.187 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:27:55.1878|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.188 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 22:27:55.2050|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.205 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 22:27:55.2283|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.228 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 22:27:55.3045|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.304 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 22:27:55.3574|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.357 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:27:55.3767|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.376 PM - Button 'Add button' :: Clicking 
+2022-05-16 22:27:55.4378|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:55.437 PM - TextField 'text field' :: Typing 'kk' 
+2022-05-16 22:27:58.5973|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:27:58.597 PM - Close all instanse and browser 
+2022-05-16 22:50:03.0006|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.000 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:03.0479|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.047 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:03.0490|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.049 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 22:50:03.0499|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.049 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 22:50:03.0666|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.066 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 22:50:03.2038|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.203 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:03.2482|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.248 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:03.2886|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.288 PM - Button 'Navigation button Alerts' :: Scrolling into view 
+2022-05-16 22:50:03.3192|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.319 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 22:50:03.4538|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.453 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:03.4538|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.454 PM - [ Step 2 ]: Click Button to see alert 
+2022-05-16 22:50:03.4702|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:03.470 PM - Button 'Allert button with id alertButton' :: Clicking 
+2022-05-16 22:50:05.5414|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:05.541 PM - Expected alert text : You clicked a button, Actual alert test: You clicked a button 
+2022-05-16 22:50:05.5414|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:05.541 PM - [ Step 3 ]: Click 'OK' button 
+2022-05-16 22:50:07.5464|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:07.546 PM - [ Step 4 ]: Click Button to see Confirmation Alertalert 
+2022-05-16 22:50:07.5685|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:07.568 PM - Button 'Allert button with id confirmButton' :: Clicking 
+2022-05-16 22:50:09.6293|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:09.629 PM - Expected alert text : Do you confirm action?, Actual alert test: Do you confirm action? 
+2022-05-16 22:50:09.6293|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:09.629 PM - [ Step 5 ]: Click 'OK' button 
+2022-05-16 22:50:11.6580|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:11.658 PM - [ Step 6 ]: Click Button to see  prompt box will appear 
+2022-05-16 22:50:11.6721|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:11.672 PM - Button 'Allert button with id promtButton' :: Clicking 
+2022-05-16 22:50:13.7525|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:13.752 PM - Expected alert text : Please enter your name, Actual alert test: Please enter your name 
+2022-05-16 22:50:13.7525|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:13.752 PM - [ Step 7 ]: Enter Text and click  'OK' button 
+2022-05-16 22:50:17.8047|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:17.804 PM - Close all instanse and browser 
+2022-05-16 22:50:20.1375|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.137 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:20.1564|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.156 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:20.1564|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 10:50:20.156 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-16 22:50:20.1564|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.156 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-16 22:50:20.1702|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.170 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-16 22:50:20.2694|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.269 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:20.3019|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.301 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:20.3019|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 10:50:20.302 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-16 22:50:20.3156|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.315 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-16 22:50:20.3355|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:20.335 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-16 22:50:20.3722|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/16/2022 10:50:20.372 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 22:50:22.4807|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:22.480 PM - Close all instanse and browser 
+2022-05-16 22:50:24.8632|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:24.863 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:24.8826|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:24.882 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:24.8826|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:24.882 PM - [ Step 1 ]: Click Elements 
+2022-05-16 22:50:24.8826|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:24.883 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 22:50:24.8974|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:24.897 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 22:50:25.1243|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.124 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:25.1435|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.143 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:25.1435|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:25.143 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 22:50:25.1586|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.158 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 22:50:25.2459|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.245 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 22:50:25.3070|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:25.306 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 22:50:25.3319|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.331 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:25.3505|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.350 PM - Button 'Add button' :: Clicking 
+2022-05-16 22:50:25.4062|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.406 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-16 22:50:25.5540|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.554 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-16 22:50:25.6382|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.638 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-16 22:50:25.7379|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.737 PM - TextField 'text field' :: Typing '41' 
+2022-05-16 22:50:25.7949|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.794 PM - TextField 'text field' :: Typing '2000' 
+2022-05-16 22:50:25.8527|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:25.852 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-16 22:50:28.9099|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:28.909 PM - Close all instanse and browser 
+2022-05-16 22:50:31.4537|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.453 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:31.5106|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.510 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:31.5106|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:31.510 PM - [ Step 1 ]: Click Elements 
+2022-05-16 22:50:31.5106|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.511 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 22:50:31.5271|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.527 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 22:50:31.6560|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.655 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:31.6753|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.675 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:31.6753|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:31.675 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 22:50:31.6890|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.689 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 22:50:31.7105|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.710 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 22:50:31.7713|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/16/2022 10:50:31.771 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 22:50:31.8092|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.809 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:31.8239|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.823 PM - Button 'Add button' :: Clicking 
+2022-05-16 22:50:31.8773|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:31.877 PM - TextField 'text field' :: Typing 'Jon' 
+2022-05-16 22:50:32.0032|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:32.003 PM - TextField 'text field' :: Typing 'Snow' 
+2022-05-16 22:50:32.0659|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:32.065 PM - TextField 'text field' :: Typing 'knownothing@gmail.com' 
+2022-05-16 22:50:32.1588|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:32.158 PM - TextField 'text field' :: Typing '30' 
+2022-05-16 22:50:32.2160|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:32.216 PM - TextField 'text field' :: Typing '3000' 
+2022-05-16 22:50:32.2732|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:32.273 PM - TextField 'text field' :: Typing 'alpha' 
+2022-05-16 22:50:35.3300|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/16/2022 10:50:35.330 PM - Close all instanse and browser 
+2022-05-16 22:50:57.2683|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.267 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:57.4018|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.401 PM - Form 'Home Page' :: appears 
+2022-05-16 22:50:57.4031|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.403 PM - [ Step 1 ]: Click Elements 
+2022-05-16 22:50:57.4043|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.404 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 22:50:57.4586|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.458 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 22:50:57.6416|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.641 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:57.6611|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.661 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:57.6611|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.661 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 22:50:57.6769|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.676 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 22:50:57.6989|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.698 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 22:50:57.7602|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.760 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-16 22:50:57.7989|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.798 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:57.8189|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.818 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:50:57.8355|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.835 PM - Button 'Add button' :: Clicking 
+2022-05-16 22:50:57.8918|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:57.891 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-16 22:50:58.0444|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:58.044 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-16 22:50:58.1216|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:58.121 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-16 22:50:58.2256|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:58.225 PM - TextField 'text field' :: Typing '41' 
+2022-05-16 22:50:58.2794|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:58.279 PM - TextField 'text field' :: Typing '2000' 
+2022-05-16 22:50:58.3351|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:50:58.335 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-16 22:51:01.3905|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:51:01.390 PM - Close all instanse and browser 
+2022-05-16 22:53:34.3461|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.345 PM - Form 'Home Page' :: appears 
+2022-05-16 22:53:34.3922|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.392 PM - Form 'Home Page' :: appears 
+2022-05-16 22:53:34.3933|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.393 PM - [ Step 1 ]: Click Elements 
+2022-05-16 22:53:34.3942|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.394 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-16 22:53:34.4091|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.409 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-16 22:53:34.5347|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.534 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:53:34.5609|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.560 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:53:34.5609|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.561 PM - [ Step 2 ]: Click Web Tables 
+2022-05-16 22:53:34.5764|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.576 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-16 22:53:34.6086|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.608 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-16 22:53:34.7189|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.718 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-16 22:53:34.7646|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.764 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:53:34.7813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.781 PM - Form 'Navigation Page' :: appears 
+2022-05-16 22:53:34.7984|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.798 PM - Button 'Add button' :: Clicking 
+2022-05-16 22:53:34.8547|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.854 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-16 22:53:34.9913|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:34.991 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-16 22:53:35.0644|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:35.064 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-16 22:53:35.1620|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:35.162 PM - TextField 'text field' :: Typing '41' 
+2022-05-16 22:53:35.2161|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:35.216 PM - TextField 'text field' :: Typing '2000' 
+2022-05-16 22:53:35.2726|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:35.272 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-16 22:53:35.3392|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:35.339 PM - Button 'Submot button' :: Clicking 
+2022-05-16 22:53:35.3865|0|INFO|WebDriverFramework.WebDriver.Logger| 05/16/2022 10:53:35.386 PM - Close all instanse and browser 

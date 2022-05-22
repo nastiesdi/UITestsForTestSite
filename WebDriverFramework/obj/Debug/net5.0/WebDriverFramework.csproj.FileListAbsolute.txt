@@ -1,0 +1,13 @@
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/bin/Debug/net5.0/appsettings.json
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/bin/Debug/net5.0/NLog.config
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/bin/Debug/net5.0/WebDriverFramework.deps.json
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/bin/Debug/net5.0/WebDriverFramework.dll
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/bin/Debug/net5.0/ref/WebDriverFramework.dll
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/bin/Debug/net5.0/WebDriverFramework.pdb
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/Debug/net5.0/WebDriverFramework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/Debug/net5.0/WebDriverFramework.AssemblyInfoInputs.cache
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/Debug/net5.0/WebDriverFramework.AssemblyInfo.cs
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/Debug/net5.0/WebDriverFramework.csproj.CoreCompileInputs.cache
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/Debug/net5.0/WebDriverFramework.dll
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/Debug/net5.0/ref/WebDriverFramework.dll
+/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/Debug/net5.0/WebDriverFramework.pdb

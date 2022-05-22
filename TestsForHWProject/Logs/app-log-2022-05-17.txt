@@ -1,0 +1,947 @@
+2022-05-17 17:12:25.4418|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.440 PM - Form 'Home Page' :: appears 
+2022-05-17 17:12:25.4962|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.496 PM - Form 'Home Page' :: appears 
+2022-05-17 17:12:25.4990|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.499 PM - [ Step 1 ]: Click Elements 
+2022-05-17 17:12:25.5001|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.500 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 17:12:25.5185|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.518 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 17:12:25.6208|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.620 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:12:25.6428|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.642 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:12:25.6428|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.643 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 17:12:25.6583|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.658 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 17:12:25.6813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.681 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 17:12:25.7513|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.751 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 17:12:25.7931|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.793 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:12:25.8257|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.825 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:12:25.8342|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:12:25.834 PM - Close all instanse and browser 
+2022-05-17 17:22:09.9381|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:09.936 PM - Form 'Home Page' :: appears 
+2022-05-17 17:22:10.1078|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.107 PM - Form 'Home Page' :: appears 
+2022-05-17 17:22:10.1089|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.108 PM - [ Step 1 ]: Click Elements 
+2022-05-17 17:22:10.1099|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.109 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 17:22:10.2008|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.200 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 17:22:10.3781|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.378 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:22:10.4439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.443 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:22:10.4439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.444 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 17:22:10.4813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.481 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 17:22:10.5066|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.506 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 17:22:10.5697|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:10.569 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 17:22:22.0270|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:22.027 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:22:25.5970|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:25.597 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:22:37.6094|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:22:37.609 PM - Close all instanse and browser 
+2022-05-17 17:23:06.5796|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:06.579 PM - Form 'Home Page' :: appears 
+2022-05-17 17:23:06.6607|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:06.660 PM - Form 'Home Page' :: appears 
+2022-05-17 17:23:06.6619|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:06.661 PM - [ Step 1 ]: Click Elements 
+2022-05-17 17:23:06.6635|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:06.663 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 17:23:06.7062|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:06.706 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 17:23:06.9343|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:06.934 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:23:07.0018|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:07.001 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:23:07.0018|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:07.002 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 17:23:07.0430|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:07.042 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 17:23:07.0912|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:07.091 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 17:23:07.1816|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:07.181 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 17:23:15.0249|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:15.024 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:23:16.4339|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:16.433 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:23:37.9356|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:37.935 PM - Form 'Home Page' :: appears 
+2022-05-17 17:23:37.9878|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:37.987 PM - Form 'Home Page' :: appears 
+2022-05-17 17:23:37.9890|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:37.989 PM - [ Step 1 ]: Click Elements 
+2022-05-17 17:23:37.9903|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:37.990 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 17:23:38.0519|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:38.051 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 17:23:38.3719|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:38.371 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:23:38.4388|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:38.438 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:23:38.4388|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:38.439 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 17:23:38.4762|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:38.476 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 17:23:38.5006|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:38.500 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 17:23:38.5681|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:38.568 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 17:23:43.5969|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:43.596 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:23:46.4178|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:23:46.417 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:37:40.8885|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:40.886 PM - Form 'Home Page' :: appears 
+2022-05-17 17:37:41.0004|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.000 PM - Form 'Home Page' :: appears 
+2022-05-17 17:37:41.0015|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.001 PM - [ Step 1 ]: Click Elements 
+2022-05-17 17:37:41.0025|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.002 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 17:37:41.0387|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.038 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 17:37:41.1512|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.151 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:37:41.2136|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.213 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:37:41.2136|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.213 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 17:37:41.2552|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.255 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 17:37:41.2803|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.280 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 17:37:41.3456|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:37:41.345 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 17:39:20.4491|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:39:20.449 PM - Form 'Navigation Page' :: appears 
+2022-05-17 17:39:23.9063|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 05:39:23.906 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:04.2790|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.278 PM - Form 'Home Page' :: appears 
+2022-05-17 18:16:04.3280|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.328 PM - Form 'Home Page' :: appears 
+2022-05-17 18:16:04.3291|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.329 PM - [ Step 1 ]: Click Elements 
+2022-05-17 18:16:04.3300|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.330 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 18:16:04.3443|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.344 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 18:16:04.4471|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.447 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:04.4679|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.467 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:04.4679|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.468 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 18:16:04.4832|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.483 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 18:16:04.5184|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.518 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 18:16:04.5905|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.590 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 18:16:04.6294|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.629 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:04.6490|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.648 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:04.6757|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.675 PM - Button 'Add button' :: Clicking 
+2022-05-17 18:16:04.8040|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:04.804 PM - Close all instanse and browser 
+2022-05-17 18:16:30.0173|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.016 PM - Form 'Home Page' :: appears 
+2022-05-17 18:16:30.0732|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.073 PM - Form 'Home Page' :: appears 
+2022-05-17 18:16:30.0743|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.074 PM - [ Step 1 ]: Click Elements 
+2022-05-17 18:16:30.0752|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.075 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 18:16:30.1163|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.116 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 18:16:30.2105|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.210 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:30.3051|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.305 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:30.3051|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.305 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 18:16:30.3215|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.321 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 18:16:30.3449|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.344 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 18:16:30.4063|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.406 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 18:16:30.4439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.443 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:30.4675|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.467 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:16:30.4843|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.484 PM - Button 'Add button' :: Clicking 
+2022-05-17 18:16:30.5383|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.538 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 18:16:30.7168|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.716 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 18:16:30.7932|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.793 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 18:16:30.9092|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.909 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 18:16:30.9674|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:30.967 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 18:16:31.0239|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:31.023 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 18:16:31.0912|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:16:31.091 PM - Button 'Submot button' :: Clicking 
+2022-05-17 18:17:00.4209|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.419 PM - Form 'Home Page' :: appears 
+2022-05-17 18:17:00.5521|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.552 PM - Form 'Home Page' :: appears 
+2022-05-17 18:17:00.5533|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.553 PM - [ Step 1 ]: Click Elements 
+2022-05-17 18:17:00.5544|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.554 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 18:17:00.5923|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.592 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 18:17:00.8115|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.811 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:00.8526|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.852 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:00.8528|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.852 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 18:17:00.8916|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.891 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 18:17:00.9389|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:00.938 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 18:17:01.0095|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:01.009 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 18:17:09.3877|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:09.387 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:10.8270|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:10.826 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:11.2664|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:11.266 PM - Button 'Add button' :: Clicking 
+2022-05-17 18:17:12.0044|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:12.004 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 18:17:12.5726|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:12.572 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 18:17:13.0389|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:13.038 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 18:17:13.5719|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:13.571 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 18:17:13.9542|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:13.954 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 18:17:14.4575|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:14.457 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 18:17:15.2565|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:15.256 PM - Button 'Submot button' :: Clicking 
+2022-05-17 18:17:53.6574|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:53.656 PM - Form 'Home Page' :: appears 
+2022-05-17 18:17:53.7720|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:53.772 PM - Form 'Home Page' :: appears 
+2022-05-17 18:17:53.7732|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:53.773 PM - [ Step 1 ]: Click Elements 
+2022-05-17 18:17:53.7746|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:53.774 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 18:17:53.7913|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:53.791 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 18:17:54.0097|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.009 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:54.0876|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.087 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:54.0876|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.087 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 18:17:54.1312|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.131 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 18:17:54.1770|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.177 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 18:17:54.2525|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.252 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 18:17:54.3177|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.317 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:54.3595|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.359 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:17:54.4023|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.402 PM - Button 'Add button' :: Clicking 
+2022-05-17 18:17:54.4591|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.459 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 18:17:54.6077|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.607 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 18:17:54.8371|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.837 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 18:17:54.9354|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:54.935 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 18:17:55.0104|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:55.010 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 18:17:55.0993|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:55.099 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 18:17:55.2024|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:17:55.202 PM - Button 'Submot button' :: Clicking 
+2022-05-17 18:18:33.8128|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:33.812 PM - Form 'Home Page' :: appears 
+2022-05-17 18:18:33.9884|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:33.988 PM - Form 'Home Page' :: appears 
+2022-05-17 18:18:33.9895|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:33.989 PM - [ Step 1 ]: Click Elements 
+2022-05-17 18:18:33.9907|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:33.990 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 18:18:34.0553|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.055 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 18:18:34.3067|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.306 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:18:34.3813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.381 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:18:34.3816|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.381 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 18:18:34.4236|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.423 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 18:18:34.4729|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.472 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 18:18:34.5753|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.575 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 18:18:34.6316|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.631 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:18:34.6775|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.677 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:18:34.7205|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.720 PM - Button 'Add button' :: Clicking 
+2022-05-17 18:18:34.7736|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.773 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 18:18:34.9814|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:34.981 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 18:18:35.0544|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:35.054 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 18:18:35.1649|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:35.164 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 18:18:35.2443|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:35.244 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 18:18:35.3288|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:35.328 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 18:18:35.4010|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:18:35.401 PM - Button 'Submot button' :: Clicking 
+2022-05-17 18:19:23.3293|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.328 PM - Form 'Home Page' :: appears 
+2022-05-17 18:19:23.4279|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.427 PM - Form 'Home Page' :: appears 
+2022-05-17 18:19:23.4293|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.429 PM - [ Step 1 ]: Click Elements 
+2022-05-17 18:19:23.4307|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.430 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 18:19:23.4682|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.468 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 18:19:23.7554|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.755 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:19:23.8535|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.853 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:19:23.8535|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.853 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 18:19:23.9177|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.917 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 18:19:23.9397|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.939 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 18:19:23.9999|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:23.999 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 18:19:24.0461|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:24.046 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:19:24.0661|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:24.066 PM - Form 'Navigation Page' :: appears 
+2022-05-17 18:19:24.1263|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:24.126 PM - Button 'Add button' :: Clicking 
+2022-05-17 18:19:24.1818|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:24.181 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 18:19:24.8721|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:24.872 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 18:19:24.9526|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:24.952 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 18:19:25.0509|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:25.050 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 18:19:25.1049|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:25.104 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 18:19:25.1630|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:25.163 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 18:19:25.2594|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:19:25.259 PM - Button 'Submot button' :: Clicking 
+2022-05-17 18:34:40.3115|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:34:40.310 PM - Close all instanse and browser 
+2022-05-17 18:35:26.8668|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:35:26.865 PM - Close all instanse and browser 
+2022-05-17 18:36:06.4301|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:36:06.429 PM - Close all instanse and browser 
+2022-05-17 18:36:46.1276|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:36:46.127 PM - Close all instanse and browser 
+2022-05-17 18:36:46.1958|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:36:46.195 PM - Close all instanse and browser 
+2022-05-17 18:36:46.2161|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:36:46.216 PM - Close all instanse and browser 
+2022-05-17 18:36:46.2386|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:36:46.238 PM - Close all instanse and browser 
+2022-05-17 18:37:32.4662|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:37:32.464 PM - Close all instanse and browser 
+2022-05-17 18:38:23.2738|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:38:23.273 PM - Close all instanse and browser 
+2022-05-17 18:48:33.7243|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:48:33.722 PM - Close all instanse and browser 
+2022-05-17 18:49:54.4175|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:49:54.417 PM - Close all instanse and browser 
+2022-05-17 18:49:54.4312|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:49:54.431 PM - Close all instanse and browser 
+2022-05-17 18:49:54.4813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 06:49:54.481 PM - Close all instanse and browser 
+2022-05-17 20:20:18.0425|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.042 PM - Form 'Home Page' :: appears 
+2022-05-17 20:20:18.1147|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.114 PM - Form 'Home Page' :: appears 
+2022-05-17 20:20:18.1158|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.115 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:20:18.1167|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.116 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:20:18.1319|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.131 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:20:18.2938|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.293 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:18.3109|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.310 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:18.3109|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.311 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:20:18.3260|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.325 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:20:18.3497|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.349 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:20:18.4121|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.412 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:20:18.4512|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.451 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:18.4693|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.469 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:18.4846|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.484 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:20:18.5387|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.538 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:20:18.6830|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.683 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:20:18.7688|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.768 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:20:18.8803|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.880 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:20:18.9316|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.931 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:20:18.9858|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:18.985 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:20:19.0517|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:19.051 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:20:40.2421|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.241 PM - Form 'Home Page' :: appears 
+2022-05-17 20:20:40.3270|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.327 PM - Form 'Home Page' :: appears 
+2022-05-17 20:20:40.3284|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.328 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:20:40.3296|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.329 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:20:40.3834|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.383 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:20:40.6192|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.619 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:40.6705|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.670 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:40.6705|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.670 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:20:40.6876|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.687 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:20:40.7552|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.755 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:20:40.8231|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.823 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:20:40.9380|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:40.938 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:41.0222|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.022 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:20:41.0923|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.092 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:20:41.1516|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.151 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:20:41.2881|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.288 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:20:41.4070|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.407 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:20:41.5343|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.534 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:20:41.5881|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.588 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:20:41.6819|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.681 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:20:41.8246|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:20:41.824 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:25:28.4041|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.403 PM - Form 'Home Page' :: appears 
+2022-05-17 20:25:28.4691|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.469 PM - Form 'Home Page' :: appears 
+2022-05-17 20:25:28.4702|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.470 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:25:28.4712|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.471 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:25:28.5383|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.538 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:25:28.7647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.764 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:28.8184|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.818 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:28.8187|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.818 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:25:28.8705|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.870 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:25:28.8969|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:28.896 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:25:29.0036|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.003 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:25:29.0427|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.042 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:29.0918|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.091 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:29.1125|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.112 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:25:29.1716|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.171 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:25:29.3108|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.310 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:25:29.4390|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.439 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:25:29.5529|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.552 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:25:29.6043|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.604 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:25:29.6589|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.658 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:25:29.7574|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:29.757 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:25:57.6160|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.615 PM - Form 'Home Page' :: appears 
+2022-05-17 20:25:57.6618|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.661 PM - Form 'Home Page' :: appears 
+2022-05-17 20:25:57.6629|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.662 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:25:57.6639|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.663 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:25:57.7141|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.714 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:25:57.8409|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.840 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:57.8911|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.891 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:57.8911|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.891 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:25:57.9090|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.908 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:25:57.9350|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.935 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:25:57.9990|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:57.999 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:25:58.0862|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.086 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:58.1192|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.119 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:25:58.1378|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.137 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:25:58.1913|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.191 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:25:58.3568|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.356 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:25:58.4620|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.462 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:25:58.6733|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.673 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:25:58.7664|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.766 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:25:58.8831|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:58.883 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:25:59.0261|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:25:59.026 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:28:43.8890|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:43.888 PM - Form 'Home Page' :: appears 
+2022-05-17 20:28:43.9992|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:43.999 PM - Form 'Home Page' :: appears 
+2022-05-17 20:28:44.0003|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.000 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:28:44.0014|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.001 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:28:44.1263|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.126 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:28:44.2720|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.272 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:28:44.3218|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.321 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:28:44.3221|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.322 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:28:44.3669|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.366 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:28:44.3936|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.393 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:28:44.4601|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.460 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:28:44.5193|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.519 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:28:44.5954|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.595 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:28:44.6151|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.615 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:28:44.6803|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.680 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:28:44.8396|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.839 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:28:44.9197|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:44.919 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:28:45.0223|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:45.022 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:28:45.1266|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:45.126 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:28:45.2365|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:45.236 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:28:45.3103|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:28:45.310 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:32:37.6167|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.616 PM - Form 'Home Page' :: appears 
+2022-05-17 20:32:37.6715|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.671 PM - Form 'Home Page' :: appears 
+2022-05-17 20:32:37.6726|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.672 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:32:37.6736|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.673 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:32:37.6880|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.688 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:32:37.8383|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.838 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:32:37.8612|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.861 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:32:37.8612|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.861 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:32:37.8788|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.878 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:32:37.9728|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:37.972 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:32:38.0420|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.042 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:32:38.0813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.081 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:32:38.1041|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.104 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:32:38.1233|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.123 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:32:38.1824|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.182 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:32:38.3252|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.325 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:32:38.4154|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.415 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:32:38.5291|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.529 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:32:38.5993|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.599 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:32:38.6605|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.660 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:32:38.7309|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.730 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:32:38.8657|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:32:38.865 PM - Close all instanse and browser 
+2022-05-17 20:33:30.6702|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:30.669 PM - Form 'Home Page' :: appears 
+2022-05-17 20:33:30.8834|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:30.883 PM - Form 'Home Page' :: appears 
+2022-05-17 20:33:30.8855|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:30.885 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:33:30.8872|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:30.887 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:33:30.9076|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:30.907 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:33:31.0527|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.052 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:33:31.1041|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.104 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:33:31.1044|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.104 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:33:31.1296|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.129 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:33:31.2564|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.256 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:33:31.3302|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.330 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:33:31.3802|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.380 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:33:31.4283|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.428 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:33:31.4763|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.476 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:33:31.5350|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.535 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:33:31.6965|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.696 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:33:31.7991|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.799 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:33:31.8935|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.893 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:33:31.9467|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:31.946 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:33:32.0798|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:32.079 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:33:32.1542|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:33:32.154 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:34:53.5564|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.555 PM - Form 'Home Page' :: appears 
+2022-05-17 20:34:53.6486|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.648 PM - Form 'Home Page' :: appears 
+2022-05-17 20:34:53.6497|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.649 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:34:53.6506|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.650 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:34:53.6647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.664 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:34:53.7678|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.767 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:34:53.7866|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.786 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:34:53.7866|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.786 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:34:53.8068|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.806 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:34:53.8309|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.830 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:34:53.8948|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.894 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:34:53.9342|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.934 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:34:53.9559|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.955 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:34:53.9872|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:53.987 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:34:54.0934|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.093 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:34:54.3158|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.315 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:34:54.3981|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.398 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:34:54.5188|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.518 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:34:54.5707|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.570 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:34:54.6270|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.627 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:34:54.7000|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.700 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:34:54.8917|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:34:54.891 PM - Close all instanse and browser 
+2022-05-17 20:35:56.8651|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:56.864 PM - Form 'Home Page' :: appears 
+2022-05-17 20:35:56.9102|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:56.910 PM - Form 'Home Page' :: appears 
+2022-05-17 20:35:56.9113|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:56.911 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:35:56.9122|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:56.912 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:35:56.9271|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:56.927 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:35:57.0991|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.099 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:35:57.1479|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.147 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:35:57.1481|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.148 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:35:57.1627|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.162 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:35:57.1950|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.195 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:35:57.3048|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.304 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:35:57.3448|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.344 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:35:57.3632|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.363 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:35:57.3801|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.380 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:35:57.4490|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.449 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:35:57.5840|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.584 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:35:57.6795|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.679 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:35:57.7819|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.781 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:35:57.8338|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.833 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:35:57.8918|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.891 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:35:57.9652|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:57.965 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:35:58.2215|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:35:58.221 PM - Close all instanse and browser 
+2022-05-17 20:36:22.7289|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:22.728 PM - Form 'Home Page' :: appears 
+2022-05-17 20:36:22.8280|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:22.828 PM - Form 'Home Page' :: appears 
+2022-05-17 20:36:22.8292|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:22.829 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:36:22.8303|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:22.830 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:36:22.8795|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:22.879 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:36:23.2162|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.216 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:36:23.2740|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.274 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:36:23.2740|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.274 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:36:23.3578|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.357 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:36:23.4050|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.404 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:36:23.4938|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.493 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:36:23.5365|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.536 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:36:23.5655|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.565 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:36:23.6196|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.619 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:36:23.6802|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.680 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:36:23.8439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.843 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:36:23.9185|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:23.918 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:36:24.0198|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:24.019 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:36:24.0774|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:24.077 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:36:24.1323|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:24.132 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:36:24.2297|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:36:24.229 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:37:04.1070|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:04.106 PM - Close all instanse and browser 
+2022-05-17 20:37:52.0485|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.047 PM - Form 'Home Page' :: appears 
+2022-05-17 20:37:52.1765|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.176 PM - Form 'Home Page' :: appears 
+2022-05-17 20:37:52.1776|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.177 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:37:52.1786|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.178 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:37:52.2259|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.225 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:37:52.3846|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.384 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:37:52.4723|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.472 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:37:52.4723|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.472 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:37:52.4915|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.491 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:37:52.5516|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.551 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:37:52.6439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.643 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:37:52.7209|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.720 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:37:52.8119|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.811 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:37:52.8320|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.831 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:37:52.8960|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:52.896 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:37:53.0347|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:53.034 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:37:53.1449|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:53.144 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:37:53.2328|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:53.232 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:37:53.2870|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:53.286 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:37:53.3439|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:53.343 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:37:53.4455|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:37:53.445 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:40:52.9457|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:40:52.945 PM - Close all instanse and browser 
+2022-05-17 20:44:41.7233|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.722 PM - Form 'Home Page' :: appears 
+2022-05-17 20:44:41.8103|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.810 PM - Form 'Home Page' :: appears 
+2022-05-17 20:44:41.8120|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.812 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:44:41.8135|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.813 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:44:41.8339|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.833 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:44:41.9751|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.975 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:44:41.9908|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.990 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:44:41.9908|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:41.991 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:44:42.0060|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.006 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:44:42.0262|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.026 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:44:42.0861|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.086 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:44:42.1221|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.122 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:44:42.1395|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.139 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:44:42.1552|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.155 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:44:42.2086|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.208 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:44:42.3517|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.351 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:44:42.4379|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.437 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:44:42.5380|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.537 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:44:42.5906|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.590 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:44:42.6424|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.642 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:44:42.7075|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.707 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:44:42.9509|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:44:42.950 PM - Close all instanse and browser 
+2022-05-17 20:45:28.5203|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.519 PM - Form 'Home Page' :: appears 
+2022-05-17 20:45:28.6024|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.602 PM - Form 'Home Page' :: appears 
+2022-05-17 20:45:28.6036|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.603 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:45:28.6045|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.604 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:45:28.6235|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.623 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:45:28.7667|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.766 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:45:28.7834|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.783 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:45:28.7834|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.783 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:45:28.7980|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.798 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:45:28.8192|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.819 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:45:28.8776|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.877 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:45:28.9219|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.921 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:45:28.9404|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.940 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:45:28.9571|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:28.957 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:45:29.0077|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.007 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:45:29.1455|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.145 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:45:29.2258|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.225 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:45:29.3285|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.328 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:45:29.3820|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.382 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:45:29.4364|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.436 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:45:29.5024|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.502 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:45:29.7477|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:45:29.747 PM - Close all instanse and browser 
+2022-05-17 20:47:02.8045|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:02.803 PM - Form 'Home Page' :: appears 
+2022-05-17 20:47:02.9465|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:02.946 PM - Form 'Home Page' :: appears 
+2022-05-17 20:47:02.9477|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:02.947 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:47:02.9486|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:02.948 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:47:02.9963|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:02.996 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:47:03.0999|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.099 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:47:03.1493|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.149 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:47:03.1493|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.149 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:47:03.1709|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.170 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:47:03.1959|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.195 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:47:03.2630|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.263 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:47:03.3114|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.311 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:47:03.3637|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.363 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:47:03.4153|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.415 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:47:03.4869|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.486 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:47:03.6819|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.681 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:47:03.7584|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.758 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:47:03.9259|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.925 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:47:03.9773|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:03.977 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:47:04.0335|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:04.033 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:47:04.1313|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:47:04.131 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:49:31.8331|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:31.832 PM - Form 'Home Page' :: appears 
+2022-05-17 20:49:31.8929|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:31.892 PM - Form 'Home Page' :: appears 
+2022-05-17 20:49:31.8947|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:31.894 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:49:31.8967|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:31.896 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:49:31.9427|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:31.942 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:49:32.0997|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.099 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:32.1162|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.116 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:32.1162|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.116 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:49:32.1307|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.130 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:49:32.1513|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.151 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:49:32.2133|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.213 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:49:32.2514|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.251 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:32.2684|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.268 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:32.2842|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.284 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:49:32.3352|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:32.335 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:49:33.0101|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:33.010 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:49:33.0883|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:33.088 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:49:33.1878|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:33.187 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:49:33.2393|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:33.239 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:49:33.2923|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:33.292 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:49:33.3589|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:33.358 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:49:33.6100|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:33.610 PM - Close all instanse and browser 
+2022-05-17 20:49:50.8537|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:50.853 PM - Form 'Home Page' :: appears 
+2022-05-17 20:49:50.9133|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:50.913 PM - Form 'Home Page' :: appears 
+2022-05-17 20:49:50.9143|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:50.914 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:49:50.9154|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:50.915 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:49:50.9557|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:50.955 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:49:51.1039|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.103 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:51.1203|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.120 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:51.1205|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.120 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:49:51.1353|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.135 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:49:51.1558|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.155 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:49:51.2163|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.216 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:49:51.2532|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.253 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:51.2821|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.282 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:49:51.2980|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.298 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:49:51.3532|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.353 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:49:51.4889|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.488 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:49:51.5674|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.567 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:49:51.6661|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.666 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:49:51.7169|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.716 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:49:51.7697|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.769 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:49:51.8376|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:51.837 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:49:52.1364|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:49:52.136 PM - Close all instanse and browser 
+2022-05-17 20:50:18.8743|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:18.873 PM - Form 'Home Page' :: appears 
+2022-05-17 20:50:18.9633|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:18.963 PM - Form 'Home Page' :: appears 
+2022-05-17 20:50:18.9647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:18.964 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:50:18.9659|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:18.965 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:50:19.0698|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.069 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:50:19.1910|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.191 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:50:19.2138|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.213 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:50:19.2141|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.214 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:50:19.2667|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.266 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:50:19.3224|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.322 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:50:19.3980|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.398 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:50:19.4446|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.444 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:50:19.4872|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.487 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:50:19.5037|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.503 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:50:19.5624|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.562 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:50:19.7221|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.722 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:50:19.8371|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.837 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:50:19.9646|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:19.964 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:50:20.0163|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:20.016 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:50:20.0694|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:20.069 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:50:20.1635|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:50:20.163 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:51:46.2022|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.201 PM - Form 'Home Page' :: appears 
+2022-05-17 20:51:46.2452|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.245 PM - Form 'Home Page' :: appears 
+2022-05-17 20:51:46.2463|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.246 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:51:46.2463|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.247 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:51:46.2611|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.261 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:51:46.3886|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.388 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:51:46.4069|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.406 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:51:46.4069|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.407 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:51:46.4308|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.430 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:51:46.4581|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.458 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:51:46.5890|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.589 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:51:46.6272|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.627 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:51:46.6440|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.644 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:51:46.6619|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.661 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:51:46.7144|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.714 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:51:46.8462|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.846 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:51:46.9227|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:46.922 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:51:47.0180|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:47.018 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:51:47.0699|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:47.069 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:51:47.1259|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:47.125 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:51:47.1919|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:47.191 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:51:47.4806|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:51:47.480 PM - Close all instanse and browser 
+2022-05-17 20:56:20.4813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.480 PM - Form 'Home Page' :: appears 
+2022-05-17 20:56:20.5547|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.554 PM - Form 'Home Page' :: appears 
+2022-05-17 20:56:20.5558|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.555 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:56:20.5568|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.556 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:56:20.5722|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.572 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:56:20.7362|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.736 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:56:20.7529|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.752 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:56:20.7529|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.753 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:56:20.7673|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.767 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:56:20.7904|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.790 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:56:20.8498|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.849 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:56:20.8864|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.886 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:56:20.9074|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.907 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:56:20.9232|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.923 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:56:20.9716|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:20.971 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:56:21.6429|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:21.642 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:56:21.7298|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:21.729 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:56:21.8407|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:21.840 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:56:21.8938|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:21.893 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:56:21.9501|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:21.950 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:56:22.0196|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:22.019 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:56:22.3167|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:56:22.316 PM - Close all instanse and browser 
+2022-05-17 20:57:39.0373|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.036 PM - Form 'Home Page' :: appears 
+2022-05-17 20:57:39.0876|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.087 PM - Form 'Home Page' :: appears 
+2022-05-17 20:57:39.0888|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.088 PM - [ Step 1 ]: Click Elements 
+2022-05-17 20:57:39.0898|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.089 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 20:57:39.1732|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.173 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 20:57:39.2646|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.264 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:57:39.2811|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.281 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:57:39.2813|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.281 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 20:57:39.2976|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.297 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 20:57:39.3209|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.320 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 20:57:39.3853|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.385 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 20:57:39.4233|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.423 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:57:39.4424|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.442 PM - Form 'Navigation Page' :: appears 
+2022-05-17 20:57:39.4688|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.468 PM - Button 'Add button' :: Clicking 
+2022-05-17 20:57:39.5218|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.521 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 20:57:39.6602|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.660 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 20:57:39.7622|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.762 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 20:57:39.8723|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.872 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 20:57:39.9258|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.925 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 20:57:39.9807|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:39.980 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 20:57:40.0494|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:40.049 PM - Button 'Submot button' :: Clicking 
+2022-05-17 20:57:40.3505|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 08:57:40.350 PM - Close all instanse and browser 
+2022-05-17 21:02:00.0596|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.059 PM - Form 'Home Page' :: appears 
+2022-05-17 21:02:00.1204|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.120 PM - Form 'Home Page' :: appears 
+2022-05-17 21:02:00.1221|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.122 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:02:00.1230|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.123 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:02:00.1626|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.162 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:02:00.3226|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.322 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:02:00.3394|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.339 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:02:00.3394|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.339 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:02:00.3547|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.354 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:02:00.3772|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.377 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:02:00.4383|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.438 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:02:00.4750|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.474 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:02:00.4956|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.495 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:02:00.5126|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.512 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:02:00.5644|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.564 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:02:00.7288|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.728 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:02:00.8374|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.837 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:02:00.9381|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.938 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:02:00.9927|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:00.992 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:02:01.0491|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:01.049 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:02:01.1190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:01.119 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:02:01.4114|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:02:01.411 PM - Close all instanse and browser 
+2022-05-17 21:07:48.2155|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.215 PM - Form 'Home Page' :: appears 
+2022-05-17 21:07:48.2958|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.295 PM - Form 'Home Page' :: appears 
+2022-05-17 21:07:48.2969|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.296 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:07:48.2978|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.297 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:07:48.3149|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.314 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:07:48.4772|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.477 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:07:48.4935|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.493 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:07:48.4935|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.493 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:07:48.5110|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.511 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:07:48.5323|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.532 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:07:48.5935|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.593 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:07:48.6304|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.630 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:07:48.6494|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.649 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:07:48.6660|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.666 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:07:48.7161|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:48.716 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:07:49.3817|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:49.381 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:07:49.4611|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:49.461 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:07:49.5647|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:49.564 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:07:49.6155|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:49.615 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:07:49.6688|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:49.668 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:07:49.7365|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:49.736 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:07:49.9921|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:07:49.992 PM - Close all instanse and browser 
+2022-05-17 21:36:58.5837|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.583 PM - Form 'Home Page' :: appears 
+2022-05-17 21:36:58.6273|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.627 PM - Form 'Home Page' :: appears 
+2022-05-17 21:36:58.6285|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.628 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:36:58.6293|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.629 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:36:58.6432|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.643 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:36:58.8230|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.823 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:36:58.8406|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.840 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:36:58.8406|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.840 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:36:58.8566|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.856 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:36:58.8773|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.877 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:36:58.9388|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.938 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:36:58.9765|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.976 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:36:58.9958|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:58.995 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:36:59.0115|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.011 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:36:59.0642|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.064 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:36:59.2020|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.202 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:36:59.2866|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.286 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:36:59.3923|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.392 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:36:59.4471|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.447 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:36:59.5093|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.509 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:36:59.5755|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:36:59.575 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:37:00.3399|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:00.339 PM - [ Step 4 ]: Delete user 
+2022-05-17 21:37:00.3537|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:00.353 PM - Button 'Delete icon' :: Clicking 
+2022-05-17 21:37:00.4140|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:00.414 PM - Close all instanse and browser 
+2022-05-17 21:37:39.0989|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.098 PM - Form 'Home Page' :: appears 
+2022-05-17 21:37:39.1720|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.172 PM - Form 'Home Page' :: appears 
+2022-05-17 21:37:39.1732|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.173 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:37:39.1742|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.174 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:37:39.1915|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.191 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:37:39.3554|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.355 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:37:39.3723|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.372 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:37:39.3723|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.372 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:37:39.3898|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.389 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:37:39.4108|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.410 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:37:39.4725|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.472 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:37:39.5106|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.510 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:37:39.5398|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.539 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:37:39.5557|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.555 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:37:39.6121|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.612 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:37:39.7464|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.746 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:37:39.8211|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.821 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:37:39.9186|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.918 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:37:39.9729|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:39.972 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:37:40.0291|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:40.029 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:37:40.0937|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:40.093 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:37:40.8614|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:40.861 PM - [ Step 4 ]: Delete user 
+2022-05-17 21:37:40.8760|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:40.876 PM - Button 'Delete icon' :: Clicking 
+2022-05-17 21:37:42.9532|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:37:42.953 PM - Close all instanse and browser 
+2022-05-17 21:38:27.9901|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:27.989 PM - Form 'Home Page' :: appears 
+2022-05-17 21:38:28.0314|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.031 PM - Form 'Home Page' :: appears 
+2022-05-17 21:38:28.0325|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.032 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:38:28.0334|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.033 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:38:28.0483|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.048 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:38:28.1906|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.190 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:28.2112|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.211 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:28.2112|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.211 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:38:28.2951|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.295 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:38:28.3191|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.319 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:38:28.3907|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.390 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:38:28.4283|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.428 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:28.4495|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.449 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:28.4663|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.466 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:38:28.5216|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.521 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:38:28.6622|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.662 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:38:28.7361|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.736 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:38:28.8386|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.838 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:38:28.8917|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.891 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:38:28.9474|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:28.947 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:38:29.0131|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:29.013 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:38:29.7728|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:29.772 PM - [ Step 4 ]: Delete user 
+2022-05-17 21:38:29.7859|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:29.785 PM - Button 'Delete icon' :: Clicking 
+2022-05-17 21:38:31.8173|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:31.817 PM - Close all instanse and browser 
+2022-05-17 21:38:54.1522|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.151 PM - Form 'Home Page' :: appears 
+2022-05-17 21:38:54.2770|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.276 PM - Form 'Home Page' :: appears 
+2022-05-17 21:38:54.2781|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.278 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:38:54.2791|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.279 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:38:54.3280|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.327 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:38:54.4580|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.458 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:54.5133|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.513 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:54.5136|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.513 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:38:54.5644|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.564 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:38:54.5872|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.587 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:38:54.6575|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.657 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:38:54.7032|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.703 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:54.7474|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.747 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:38:54.7673|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.767 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:38:54.8215|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:54.821 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:38:55.4828|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:55.482 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:38:55.5604|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:55.560 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:38:55.6856|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:55.685 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:38:55.7847|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:55.784 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:38:55.9002|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:55.900 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:38:56.0060|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:56.006 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:38:57.0685|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:57.068 PM - [ Step 4 ]: Delete user 
+2022-05-17 21:38:57.1094|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:38:57.109 PM - Button 'Delete icon' :: Clicking 
+2022-05-17 21:40:08.4958|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.495 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:08.5454|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.545 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:08.5466|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.546 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:40:08.5480|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.548 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:40:08.5650|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.565 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:40:08.6901|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.690 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:08.7149|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.714 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:08.7152|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.715 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:40:08.7301|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.730 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:40:08.7671|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.767 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:40:08.9243|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.924 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:40:08.9675|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.967 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:08.9859|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:08.985 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:09.0049|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.004 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:40:09.0640|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.064 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:40:09.2080|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.208 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:40:09.2933|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.293 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:40:09.4001|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.400 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:40:09.4568|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.456 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:40:09.5222|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.522 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:40:09.6001|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:09.600 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:40:10.3982|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:10.398 PM - [ Step 4 ]: Delete user 
+2022-05-17 21:40:10.4124|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:10.412 PM - Button 'Delete icon' :: Clicking 
+2022-05-17 21:40:10.7915|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:10.791 PM - Close all instanse and browser 
+2022-05-17 21:40:20.0872|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.086 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:20.1514|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.151 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:20.1525|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.152 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-17 21:40:20.1537|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.153 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-17 21:40:20.2414|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.241 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 21:40:20.3467|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.346 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:20.3645|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.364 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:20.3821|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.382 PM - Button 'Navigation button Alerts' :: Scrolling into view 
+2022-05-17 21:40:20.4043|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.404 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 21:40:20.4550|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.455 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:20.4553|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.455 PM - [ Step 2 ]: Click Button to see alert 
+2022-05-17 21:40:20.4743|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:20.474 PM - Button 'Allert button with id alertButton' :: Clicking 
+2022-05-17 21:40:22.5442|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:22.544 PM - Expected alert text : You clicked a button, Actual alert test: You clicked a button 
+2022-05-17 21:40:22.5442|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:22.544 PM - [ Step 3 ]: Click 'OK' button 
+2022-05-17 21:40:24.5484|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:24.548 PM - [ Step 4 ]: Click Button to see Confirmation Alertalert 
+2022-05-17 21:40:24.5694|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:24.569 PM - Button 'Allert button with id confirmButton' :: Clicking 
+2022-05-17 21:40:26.6344|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:26.634 PM - Expected alert text : Do you confirm action?, Actual alert test: Do you confirm action? 
+2022-05-17 21:40:26.6344|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:26.634 PM - [ Step 5 ]: Click 'OK' button 
+2022-05-17 21:40:28.6995|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:28.699 PM - [ Step 6 ]: Click Button to see  prompt box will appear 
+2022-05-17 21:40:28.7147|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:28.714 PM - Button 'Allert button with id promtButton' :: Clicking 
+2022-05-17 21:40:30.7870|0|DEBUG|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:30.787 PM - Expected alert text : Please enter your name, Actual alert test: Please enter your name 
+2022-05-17 21:40:30.7870|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:30.787 PM - [ Step 7 ]: Enter Text and click  'OK' button 
+2022-05-17 21:40:34.8319|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:40:34.831 PM - Close all instanse and browser 
+2022-05-17 21:40:38.0998|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.099 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:38.1441|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.144 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:38.1441|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/17/2022 09:40:38.144 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-17 21:40:38.1441|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.144 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-17 21:40:38.1737|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.173 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 21:40:38.2705|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.270 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:38.3660|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.366 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:38.3660|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/17/2022 09:40:38.366 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-17 21:40:38.3817|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.381 PM - Button 'Navigation button Frames' :: Scrolling into view 
+2022-05-17 21:40:38.4034|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:38.403 PM - Button 'Navigation button Frames' :: Clicking 
+2022-05-17 21:40:38.4379|0|INFO|WebDriverFramework.WebDriver.Logger|AlertsTest 05/17/2022 09:40:38.437 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-17 21:40:40.4701|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:40.470 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:40.5574|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:40.557 PM - Close all instanse and browser 
+2022-05-17 21:40:43.7039|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:43.703 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:43.7250|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:43.724 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:43.7252|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:43.725 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:40:43.7252|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:43.725 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:40:43.7392|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:43.739 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:40:43.8858|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:43.885 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:43.9062|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:43.906 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:43.9062|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:43.906 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:40:43.9957|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:43.995 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:40:44.0199|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.019 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:40:44.1053|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:44.105 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:40:44.1370|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.137 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:44.1627|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.162 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:44.1796|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.179 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:40:44.2481|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.248 PM - TextField 'text field' :: Typing 'Buttercup' 
+2022-05-17 21:40:44.3929|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.392 PM - TextField 'text field' :: Typing 'Cumbersnatch' 
+2022-05-17 21:40:44.4776|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.477 PM - TextField 'text field' :: Typing 'BudapestCandygram@mail.ru' 
+2022-05-17 21:40:44.5813|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.581 PM - TextField 'text field' :: Typing '41' 
+2022-05-17 21:40:44.6411|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.641 PM - TextField 'text field' :: Typing '2000' 
+2022-05-17 21:40:44.6988|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.698 PM - TextField 'text field' :: Typing 'beta' 
+2022-05-17 21:40:44.7685|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:44.768 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:40:45.5409|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:45.540 PM - [ Step 4 ]: Delete user 
+2022-05-17 21:40:45.5541|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:45.554 PM - Button 'Delete icon' :: Clicking 
+2022-05-17 21:40:45.9427|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:45.942 PM - Close all instanse and browser 
+2022-05-17 21:40:49.0986|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.098 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:49.1195|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.119 PM - Form 'Home Page' :: appears 
+2022-05-17 21:40:49.1195|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:49.119 PM - [ Step 1 ]: Click Elements 
+2022-05-17 21:40:49.1201|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.120 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-17 21:40:49.1341|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.134 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-17 21:40:49.2636|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.263 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:49.2974|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.297 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:49.2974|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:49.297 PM - [ Step 2 ]: Click Web Tables 
+2022-05-17 21:40:49.3183|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.318 PM - Button 'Navigation button Web Tables' :: Scrolling into view 
+2022-05-17 21:40:49.4147|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.414 PM - Button 'Navigation button Web Tables' :: Clicking 
+2022-05-17 21:40:49.4886|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:49.488 PM - [ Step 3 ]: Fill all fields for User and click Submit 
+2022-05-17 21:40:49.5172|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.517 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:49.5387|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.538 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:40:49.5561|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.556 PM - Button 'Add button' :: Clicking 
+2022-05-17 21:40:49.6153|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:49.615 PM - TextField 'text field' :: Typing 'Jon' 
+2022-05-17 21:40:50.2872|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:50.287 PM - TextField 'text field' :: Typing 'Snow' 
+2022-05-17 21:40:50.3467|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:50.346 PM - TextField 'text field' :: Typing 'knownothing@gmail.com' 
+2022-05-17 21:40:50.4415|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:50.441 PM - TextField 'text field' :: Typing '30' 
+2022-05-17 21:40:50.5002|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:50.500 PM - TextField 'text field' :: Typing '3000' 
+2022-05-17 21:40:50.5544|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:50.554 PM - TextField 'text field' :: Typing 'alpha' 
+2022-05-17 21:40:50.6298|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:50.629 PM - Button 'Submot button' :: Clicking 
+2022-05-17 21:40:51.3937|0|INFO|WebDriverFramework.WebDriver.Logger|IFrameTest 05/17/2022 09:40:51.393 PM - [ Step 4 ]: Delete user 
+2022-05-17 21:40:51.4087|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:51.408 PM - Button 'Delete icon' :: Clicking 
+2022-05-17 21:40:51.7981|0|INFO|WebDriverFramework.WebDriver.Logger|TableTest 05/17/2022 09:40:51.798 PM - Close all instanse and browser 
+2022-05-17 21:56:33.7494|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:33.748 PM - Form 'Home Page' :: appears 
+2022-05-17 21:56:33.8191|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:33.819 PM - Form 'Home Page' :: appears 
+2022-05-17 21:56:33.8205|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:33.820 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-17 21:56:33.8215|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:33.821 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-17 21:56:33.9025|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:33.902 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 21:56:33.9956|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:33.995 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:56:34.0114|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:34.011 PM - Form 'Navigation Page' :: appears 
+2022-05-17 21:56:34.0114|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:34.011 PM - [ Step 2 ]: Click Button to see Frame page 
+2022-05-17 21:56:34.0320|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:34.031 PM - Button 'Navigation button Browser Windows' :: Scrolling into view 
+2022-05-17 21:56:34.0540|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:34.054 PM - Button 'Navigation button Browser Windows' :: Clicking 
+2022-05-17 21:56:34.0839|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:34.083 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-17 21:56:36.0866|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 09:56:36.086 PM - Close all instanse and browser 
+2022-05-17 22:08:11.3000|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.299 PM - Form 'Home Page' :: appears 
+2022-05-17 22:08:11.3444|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.344 PM - Form 'Home Page' :: appears 
+2022-05-17 22:08:11.3455|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.345 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-17 22:08:11.3464|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.346 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-17 22:08:11.3602|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.360 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 22:08:11.4608|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.460 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:08:11.4801|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.480 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:08:11.4801|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.480 PM - [ Step 2 ]: Click Button to see Browser Windows page 
+2022-05-17 22:08:11.4960|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.496 PM - Button 'Navigation button Browser Windows' :: Scrolling into view 
+2022-05-17 22:08:11.5163|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.516 PM - Button 'Navigation button Browser Windows' :: Clicking 
+2022-05-17 22:08:11.6287|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.628 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:08:11.6287|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.628 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-17 22:08:11.6554|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.655 PM - Button 'Tab button' :: Clicking 
+2022-05-17 22:08:11.7730|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:11.772 PM - Close all instanse and browser 
+2022-05-17 22:08:30.3541|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.353 PM - Form 'Home Page' :: appears 
+2022-05-17 22:08:30.4138|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.413 PM - Form 'Home Page' :: appears 
+2022-05-17 22:08:30.4153|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.415 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-17 22:08:30.4168|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.416 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-17 22:08:30.4336|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.433 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 22:08:30.5612|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.561 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:08:30.5787|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.578 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:08:30.5789|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.578 PM - [ Step 2 ]: Click Button to see Browser Windows page 
+2022-05-17 22:08:30.6601|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.660 PM - Button 'Navigation button Browser Windows' :: Scrolling into view 
+2022-05-17 22:08:30.6815|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.681 PM - Button 'Navigation button Browser Windows' :: Clicking 
+2022-05-17 22:08:30.7343|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.734 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:08:30.7343|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.734 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-17 22:08:30.7480|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:30.748 PM - Button 'Tab button' :: Clicking 
+2022-05-17 22:08:35.7942|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:08:35.794 PM - Close all instanse and browser 
+2022-05-17 22:09:04.1179|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.117 PM - Form 'Home Page' :: appears 
+2022-05-17 22:09:04.1868|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.186 PM - Form 'Home Page' :: appears 
+2022-05-17 22:09:04.1880|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.188 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-17 22:09:04.1895|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.189 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-17 22:09:04.2264|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.226 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 22:09:04.3818|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.381 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:09:04.3969|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.396 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:09:04.3969|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.397 PM - [ Step 2 ]: Click Button to see Browser Windows page 
+2022-05-17 22:09:04.4113|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.411 PM - Button 'Navigation button Browser Windows' :: Scrolling into view 
+2022-05-17 22:09:04.4318|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.431 PM - Button 'Navigation button Browser Windows' :: Clicking 
+2022-05-17 22:09:04.4842|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.484 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:09:04.4842|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.484 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-17 22:09:04.4979|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.497 PM - Button 'Tab button' :: Clicking 
+2022-05-17 22:09:04.5546|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:04.554 PM - Close all instanse and browser 
+2022-05-17 22:09:17.4337|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.433 PM - Form 'Home Page' :: appears 
+2022-05-17 22:09:17.5014|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.501 PM - Form 'Home Page' :: appears 
+2022-05-17 22:09:17.5025|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.502 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-17 22:09:17.5035|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.503 PM - Button 'Navigation button Alerts' :: Perform click and wait for page to load 
+2022-05-17 22:09:17.5864|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.586 PM - Button 'Navigation button Alerts' :: Clicking 
+2022-05-17 22:09:17.6930|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.692 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:09:17.7140|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.713 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:09:17.7140|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.714 PM - [ Step 2 ]: Click Button to see Browser Windows page 
+2022-05-17 22:09:17.7289|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.728 PM - Button 'Navigation button Browser Windows' :: Scrolling into view 
+2022-05-17 22:09:17.7524|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.752 PM - Button 'Navigation button Browser Windows' :: Clicking 
+2022-05-17 22:09:17.8077|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.807 PM - Form 'Navigation Page' :: appears 
+2022-05-17 22:09:17.8079|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.807 PM - [ Step 3 ]: Verify 2 text Are equal 
+2022-05-17 22:09:17.8209|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:17.820 PM - Button 'Tab button' :: Clicking 
+2022-05-17 22:09:22.8721|0|INFO|WebDriverFramework.WebDriver.Logger| 05/17/2022 10:09:22.872 PM - Close all instanse and browser 

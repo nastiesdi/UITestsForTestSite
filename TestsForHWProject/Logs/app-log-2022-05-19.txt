@@ -1,0 +1,370 @@
+2022-05-19 10:39:20.4326|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.431 AM - Form 'Home Page' :: appears 
+2022-05-19 10:39:20.4873|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.487 AM - Form 'Home Page' :: appears 
+2022-05-19 10:39:20.4896|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.489 AM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 10:39:20.4906|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.490 AM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 10:39:20.5059|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.505 AM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 10:39:20.7228|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.722 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:39:20.7451|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.745 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:39:20.7724|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.772 AM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 10:39:20.7982|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.798 AM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 10:39:20.9531|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.953 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:39:20.9714|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.971 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:39:20.9725|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:39:20.972 AM - Close all instanse and browser 
+2022-05-19 10:49:45.1649|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.164 AM - Form 'Home Page' :: appears 
+2022-05-19 10:49:45.2092|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.209 AM - Form 'Home Page' :: appears 
+2022-05-19 10:49:45.2103|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.210 AM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 10:49:45.2113|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.211 AM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 10:49:45.2253|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.225 AM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 10:49:45.3178|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.317 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:49:45.3385|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.338 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:49:45.3549|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.354 AM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 10:49:45.3760|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.376 AM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 10:49:45.5263|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.526 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:49:45.5723|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.572 AM - Form 'Navigation Page' :: appears 
+2022-05-19 10:49:45.5905|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:45.590 AM - Button 'Download Button' :: Clicking 
+2022-05-19 10:49:47.6402|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 10:49:47.640 AM - Close all instanse and browser 
+2022-05-19 11:34:32.9088|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:32.908 AM - Form 'Home Page' :: appears 
+2022-05-19 11:34:32.9833|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:32.983 AM - Form 'Home Page' :: appears 
+2022-05-19 11:34:32.9845|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:32.984 AM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 11:34:32.9855|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:32.985 AM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 11:34:33.0098|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.009 AM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 11:34:33.1687|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.168 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:34:33.1855|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.185 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:34:33.2007|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.200 AM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 11:34:33.2239|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.223 AM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 11:34:33.3096|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.309 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:34:33.3291|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.329 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:34:33.3604|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:34:33.360 AM - Close all instanse and browser 
+2022-05-19 11:36:49.3816|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.381 AM - Form 'Home Page' :: appears 
+2022-05-19 11:36:49.4574|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.457 AM - Form 'Home Page' :: appears 
+2022-05-19 11:36:49.4585|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.458 AM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 11:36:49.4595|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.459 AM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 11:36:49.4772|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.477 AM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 11:36:49.5726|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.572 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:36:49.5915|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.591 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:36:49.6071|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.607 AM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 11:36:49.6274|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.627 AM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 11:36:49.7055|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.705 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:36:49.7239|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.723 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:36:49.7648|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:36:49.764 AM - Close all instanse and browser 
+2022-05-19 11:38:03.2914|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.290 AM - Form 'Home Page' :: appears 
+2022-05-19 11:38:03.4326|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.432 AM - Form 'Home Page' :: appears 
+2022-05-19 11:38:03.4337|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.433 AM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 11:38:03.4348|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.434 AM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 11:38:03.4708|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.470 AM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 11:38:03.5838|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.583 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:38:03.6487|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.648 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:38:03.6897|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.689 AM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 11:38:03.7915|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.791 AM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 11:38:03.9257|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:03.925 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:38:04.0039|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:38:04.003 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:39:43.1909|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.190 AM - Form 'Home Page' :: appears 
+2022-05-19 11:39:43.3551|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.355 AM - Form 'Home Page' :: appears 
+2022-05-19 11:39:43.3563|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.356 AM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 11:39:43.3574|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.357 AM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 11:39:43.3972|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.397 AM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 11:39:43.5215|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.521 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:39:43.5408|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.540 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:39:43.5838|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.583 AM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 11:39:43.6064|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.606 AM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 11:39:43.6991|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.699 AM - Form 'Navigation Page' :: appears 
+2022-05-19 11:39:43.9428|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 11:39:43.942 AM - Form 'Navigation Page' :: appears 
+2022-05-19 12:00:58.1437|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.143 PM - Form 'Home Page' :: appears 
+2022-05-19 12:00:58.2052|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.205 PM - Form 'Home Page' :: appears 
+2022-05-19 12:00:58.2064|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.206 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:00:58.2074|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.207 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:00:58.3346|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.331 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:00:58.4531|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.453 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:00:58.4932|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.493 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:00:58.5306|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.530 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:00:58.5774|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.577 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:00:58.6940|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.693 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:00:58.7364|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:00:58.736 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:04:14.6411|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:14.640 PM - Form 'Home Page' :: appears 
+2022-05-19 12:04:14.7559|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:14.755 PM - Form 'Home Page' :: appears 
+2022-05-19 12:04:14.7570|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:14.757 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:04:14.7582|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:14.758 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:04:14.8877|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:14.887 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:04:15.0726|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:15.072 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:04:15.1130|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:15.113 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:04:15.1524|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:15.152 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:04:15.1979|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:15.197 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:04:15.2957|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:15.295 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:04:15.3156|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:04:15.315 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:05:27.9120|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:27.911 PM - Form 'Home Page' :: appears 
+2022-05-19 12:05:28.0039|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.003 PM - Form 'Home Page' :: appears 
+2022-05-19 12:05:28.0050|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.005 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:05:28.0061|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.006 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:05:28.1297|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.129 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:05:28.3147|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.314 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:05:28.3572|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.357 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:05:28.3972|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.397 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:05:28.4244|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.424 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:05:28.5243|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.524 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:05:28.5627|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:05:28.562 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:07:00.2978|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.297 PM - Form 'Home Page' :: appears 
+2022-05-19 12:07:00.3920|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.392 PM - Form 'Home Page' :: appears 
+2022-05-19 12:07:00.3933|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.393 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:07:00.3944|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.394 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:07:00.4306|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.430 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:07:00.5450|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.545 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:07:00.6362|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.636 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:07:00.6989|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.698 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:07:00.7212|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.721 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:07:00.9111|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.911 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:07:00.9532|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:07:00.953 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:11:53.1452|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.144 PM - Form 'Home Page' :: appears 
+2022-05-19 12:11:53.2022|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.202 PM - Form 'Home Page' :: appears 
+2022-05-19 12:11:53.2034|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.203 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:11:53.2044|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.204 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:11:53.2481|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.248 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:11:53.4156|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.415 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:11:53.4327|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.432 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:11:53.4504|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.450 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:11:53.4732|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.473 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:11:53.5372|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.537 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:11:53.5545|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.554 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:11:53.5966|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:11:53.596 PM - Close all instanse and browser 
+2022-05-19 12:13:40.3594|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.358 PM - Form 'Home Page' :: appears 
+2022-05-19 12:13:40.5154|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.515 PM - Form 'Home Page' :: appears 
+2022-05-19 12:13:40.5165|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.516 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:13:40.5176|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.517 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:13:40.5727|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.572 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:13:40.7447|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.744 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:13:40.7878|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.787 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:13:40.8270|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.827 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:13:40.8715|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.871 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:13:40.9989|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:40.998 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:13:41.0427|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:13:41.042 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:06.1473|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.146 PM - Form 'Home Page' :: appears 
+2022-05-19 12:14:06.2023|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.202 PM - Form 'Home Page' :: appears 
+2022-05-19 12:14:06.2037|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.203 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:14:06.2053|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.205 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:14:06.2447|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.244 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:14:06.4180|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.418 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:06.4385|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.438 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:06.4540|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.454 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:14:06.4778|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.477 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:14:06.5436|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.543 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:06.5620|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.562 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:06.6038|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:06.603 PM - Close all instanse and browser 
+2022-05-19 12:14:15.2113|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.210 PM - Form 'Home Page' :: appears 
+2022-05-19 12:14:15.2701|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.270 PM - Form 'Home Page' :: appears 
+2022-05-19 12:14:15.2713|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.271 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:14:15.2726|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.272 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:14:15.4036|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.403 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:14:15.6331|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.633 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:15.6739|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.673 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:15.7149|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.714 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:14:15.7856|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.785 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:14:15.8859|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.885 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:15.9336|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:15.933 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:50.0624|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.061 PM - Form 'Home Page' :: appears 
+2022-05-19 12:14:50.1401|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.140 PM - Form 'Home Page' :: appears 
+2022-05-19 12:14:50.1414|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.141 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:14:50.1426|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.142 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:14:50.1832|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.183 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:14:50.2736|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.273 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:50.2941|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.294 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:50.3121|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.312 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:14:50.3349|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.334 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:14:50.4051|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.405 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:14:50.4499|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:14:50.449 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:19:08.8377|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:08.837 PM - Form 'Home Page' :: appears 
+2022-05-19 12:19:08.9855|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:08.985 PM - Form 'Home Page' :: appears 
+2022-05-19 12:19:08.9866|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:08.986 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:19:08.9877|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:08.987 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:19:09.0033|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:09.003 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:19:09.1205|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:09.120 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:19:09.1820|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:09.182 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:19:09.2217|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:09.221 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:19:09.2747|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:09.274 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:19:09.4186|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:09.418 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:19:09.4582|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:19:09.458 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:20:04.2230|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.220 PM - Form 'Home Page' :: appears 
+2022-05-19 12:20:04.4235|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.423 PM - Form 'Home Page' :: appears 
+2022-05-19 12:20:04.4246|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.424 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:20:04.4260|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.426 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:20:04.4677|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.467 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:20:04.5902|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.590 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:20:04.6551|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.655 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:20:04.7173|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.717 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:20:04.7693|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.769 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:20:04.9688|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:04.968 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:20:05.0140|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:20:05.014 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:56:29.8134|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:29.812 PM - Form 'Home Page' :: appears 
+2022-05-19 12:56:29.9420|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:29.942 PM - Form 'Home Page' :: appears 
+2022-05-19 12:56:29.9433|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:29.943 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:56:29.9445|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:29.944 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:56:29.9840|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:29.983 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:56:30.1703|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:30.170 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:56:30.2131|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:30.213 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:56:30.2783|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:30.278 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:56:30.3008|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:30.300 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:56:30.5809|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:30.580 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:56:30.5990|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:56:30.598 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:59:13.1717|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.171 PM - Form 'Home Page' :: appears 
+2022-05-19 12:59:13.2242|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.224 PM - Form 'Home Page' :: appears 
+2022-05-19 12:59:13.2253|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.225 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 12:59:13.2263|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.226 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 12:59:13.2667|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.266 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 12:59:13.4594|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.459 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:59:13.4843|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.484 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:59:13.5063|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.506 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 12:59:13.5314|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.531 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 12:59:13.6207|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.620 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:59:13.6409|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.640 PM - Form 'Navigation Page' :: appears 
+2022-05-19 12:59:13.6567|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 12:59:13.656 PM - Close all instanse and browser 
+2022-05-19 13:03:18.7965|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:18.795 PM - Form 'Home Page' :: appears 
+2022-05-19 13:03:18.8607|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:18.860 PM - Form 'Home Page' :: appears 
+2022-05-19 13:03:18.8618|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:18.861 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:03:18.8627|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:18.862 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:03:18.8768|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:18.876 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:03:19.0597|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:19.059 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:03:19.0780|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:19.078 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:03:19.0948|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:19.094 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:03:19.1155|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:19.115 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:03:19.1830|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:19.182 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:03:19.2025|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:19.202 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:03:19.2200|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:03:19.220 PM - Close all instanse and browser 
+2022-05-19 13:05:00.9000|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:00.899 PM - Form 'Home Page' :: appears 
+2022-05-19 13:05:00.9683|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:00.968 PM - Form 'Home Page' :: appears 
+2022-05-19 13:05:00.9694|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:00.969 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:05:00.9704|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:00.970 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:05:01.0023|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.002 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:05:01.1740|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.174 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:01.1927|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.192 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:01.2080|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.208 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:05:01.2291|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.229 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:05:01.2943|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.294 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:01.3109|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.310 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:01.3241|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:01.324 PM - Close all instanse and browser 
+2022-05-19 13:05:44.7351|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:44.734 PM - Form 'Home Page' :: appears 
+2022-05-19 13:05:44.9277|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:44.927 PM - Form 'Home Page' :: appears 
+2022-05-19 13:05:44.9288|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:44.928 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:05:44.9302|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:44.930 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:05:44.9688|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:44.968 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:05:45.0827|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:45.082 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:45.1522|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:45.152 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:45.1896|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:45.189 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:05:45.2368|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:45.236 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:05:45.3257|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:45.325 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:45.4606|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:45.460 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:05:56.4451|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:05:56.445 PM - Close all instanse and browser 
+2022-05-19 13:06:41.4318|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.431 PM - Form 'Home Page' :: appears 
+2022-05-19 13:06:41.5755|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.575 PM - Form 'Home Page' :: appears 
+2022-05-19 13:06:41.6038|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.603 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:06:41.6056|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.605 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:06:41.6247|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.624 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:06:41.7379|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.737 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:06:41.8011|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.801 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:06:41.8611|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.861 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:06:41.8833|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:41.883 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:06:42.0828|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:42.082 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:06:42.1300|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:42.129 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:06:47.1626|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:06:47.162 PM - Close all instanse and browser 
+2022-05-19 13:40:58.6497|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.648 PM - Form 'Home Page' :: appears 
+2022-05-19 13:40:58.7163|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.716 PM - Form 'Home Page' :: appears 
+2022-05-19 13:40:58.7177|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.717 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:40:58.7193|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.719 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:40:58.7570|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.757 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:40:58.9556|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.955 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:40:58.9769|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.976 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:40:58.9934|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:58.993 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:40:59.0153|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:59.015 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:40:59.0810|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:59.080 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:40:59.0975|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:59.097 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:40:59.1492|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:40:59.149 PM - Close all instanse and browser 
+2022-05-19 13:42:48.4087|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.408 PM - Form 'Home Page' :: appears 
+2022-05-19 13:42:48.4532|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.453 PM - Form 'Home Page' :: appears 
+2022-05-19 13:42:48.4543|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.454 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:42:48.4552|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.455 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:42:48.4705|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.470 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:42:48.6146|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.614 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:42:48.7163|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.716 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:42:48.7310|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.731 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:42:48.7544|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.754 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:42:48.9141|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.914 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:42:48.9338|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.933 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:42:48.9955|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:42:48.995 PM - Close all instanse and browser 
+2022-05-19 13:45:17.5075|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.506 PM - Form 'Home Page' :: appears 
+2022-05-19 13:45:17.6070|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.607 PM - Form 'Home Page' :: appears 
+2022-05-19 13:45:17.6082|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.608 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:45:17.6092|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.609 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:45:17.6888|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.688 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:45:17.8447|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.844 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:45:17.9313|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.931 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:45:17.9718|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.971 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:45:17.9946|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:17.994 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:45:18.0849|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:18.084 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:45:18.1957|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:45:18.195 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:46:22.1447|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:46:22.144 PM - Close all instanse and browser 
+2022-05-19 13:54:52.7170|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:52.716 PM - Form 'Home Page' :: appears 
+2022-05-19 13:54:52.8082|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:52.808 PM - Form 'Home Page' :: appears 
+2022-05-19 13:54:52.8095|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:52.809 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:54:52.8108|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:52.810 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:54:52.9088|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:52.908 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:54:53.1275|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:53.127 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:54:53.1923|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:53.192 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:54:53.2324|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:53.232 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:54:53.2875|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:53.287 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:54:53.4372|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:53.437 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:54:53.4605|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:54:53.460 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:03.8104|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:03.809 PM - Form 'Home Page' :: appears 
+2022-05-19 13:58:03.8573|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:03.857 PM - Form 'Home Page' :: appears 
+2022-05-19 13:58:03.8584|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:03.858 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:58:03.8593|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:03.859 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:58:03.8733|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:03.873 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:58:04.0554|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:04.055 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:04.0917|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:04.091 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:04.1267|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:04.126 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:58:04.1797|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:04.179 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:58:04.3729|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:04.372 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:04.3954|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:04.395 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:04.4556|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:04.455 PM - Close all instanse and browser 
+2022-05-19 13:58:21.5054|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:21.504 PM - Form 'Home Page' :: appears 
+2022-05-19 13:58:21.6165|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:21.616 PM - Form 'Home Page' :: appears 
+2022-05-19 13:58:21.6177|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:21.617 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 13:58:21.6188|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:21.618 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 13:58:21.7366|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:21.736 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 13:58:21.9711|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:21.971 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:22.0124|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:22.012 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:22.0494|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:22.049 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 13:58:22.0784|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:22.078 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 13:58:22.2016|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:22.201 PM - Form 'Navigation Page' :: appears 
+2022-05-19 13:58:22.2884|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 01:58:22.288 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:05.5708|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.569 PM - Form 'Home Page' :: appears 
+2022-05-19 14:38:05.6180|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.617 PM - Form 'Home Page' :: appears 
+2022-05-19 14:38:05.6190|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.619 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 14:38:05.6199|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.619 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 14:38:05.6341|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.634 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 14:38:05.7317|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.731 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:05.7541|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.754 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:05.7699|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.769 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 14:38:05.7939|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.793 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 14:38:05.8969|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.896 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:05.9167|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.916 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:05.9593|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:05.959 PM - Close all instanse and browser 
+2022-05-19 14:38:22.4821|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.481 PM - Form 'Home Page' :: appears 
+2022-05-19 14:38:22.5831|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.583 PM - Form 'Home Page' :: appears 
+2022-05-19 14:38:22.5851|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.585 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 14:38:22.5879|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.587 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 14:38:22.7084|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.708 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 14:38:22.8688|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.868 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:22.9358|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.935 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:22.9996|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:22.999 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 14:38:23.0222|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:23.022 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 14:38:23.1191|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:23.119 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:38:23.2320|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:38:23.232 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:39:22.5007|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:39:22.500 PM - Close all instanse and browser 
+2022-05-19 14:40:01.1940|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.193 PM - Form 'Home Page' :: appears 
+2022-05-19 14:40:01.3203|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.320 PM - Form 'Home Page' :: appears 
+2022-05-19 14:40:01.3216|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.321 PM - [ Step 1 ]: Click Alerts, Frame and Window button 
+2022-05-19 14:40:01.3226|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.322 PM - Button 'Navigation button Elements' :: Perform click and wait for page to load 
+2022-05-19 14:40:01.3388|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.338 PM - Button 'Navigation button Elements' :: Clicking 
+2022-05-19 14:40:01.5382|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.538 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:40:01.5562|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.556 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:40:01.5721|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.572 PM - Button 'Navigation button Upload and Download' :: Scrolling into view 
+2022-05-19 14:40:01.5950|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.595 PM - Button 'Navigation button Upload and Download' :: Clicking 
+2022-05-19 14:40:01.7751|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.775 PM - Form 'Navigation Page' :: appears 
+2022-05-19 14:40:01.8246|0|INFO|WebDriverFramework.WebDriver.Logger| 05/19/2022 02:40:01.824 PM - Form 'Navigation Page' :: appears 

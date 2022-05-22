@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nastiesdi/Projects/TestsForHWProject/TestsForHWProject/TestsForHWProject.csproj": {}
+  },
+  "projects": {
+    "/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/PageObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/PageObjects.csproj",
+        "projectName": "PageObjects",
+        "projectPath": "/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/PageObjects.csproj",
+        "packagesPath": "/Users/nastiesdi/.nuget/packages/",
+        "outputPath": "/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nastiesdi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriverFramework.csproj": {
+                "projectPath": "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriverFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nastiesdi/Projects/TestsForHWProject/TestsForHWProject/TestsForHWProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nastiesdi/Projects/TestsForHWProject/TestsForHWProject/TestsForHWProject.csproj",
+        "projectName": "TestsForHWProject",
+        "projectPath": "/Users/nastiesdi/Projects/TestsForHWProject/TestsForHWProject/TestsForHWProject.csproj",
+        "packagesPath": "/Users/nastiesdi/.nuget/packages/",
+        "outputPath": "/Users/nastiesdi/Projects/TestsForHWProject/TestsForHWProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nastiesdi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/PageObjects.csproj": {
+                "projectPath": "/Users/nastiesdi/Projects/TestsForHWProject/PageObjects/PageObjects.csproj"
+              },
+              "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriverFramework.csproj": {
+                "projectPath": "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriverFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[101.0.4951.4100, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriverFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriverFramework.csproj",
+        "projectName": "WebDriverFramework",
+        "projectPath": "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/WebDriverFramework.csproj",
+        "packagesPath": "/Users/nastiesdi/.nuget/packages/",
+        "outputPath": "/Users/nastiesdi/Projects/TestsForHWProject/WebDriverFramework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nastiesdi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MicrosoftVisualStudioQualityToolsUnitTestFramework": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[101.0.4951.4100, )"
+            },
+            "Selenium.WebDriver.GeckoDriver": {
+              "target": "Package",
+              "version": "[0.31.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
